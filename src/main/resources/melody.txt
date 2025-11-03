@@ -1,0 +1,24 @@
+134
+
+[pj] f h p f h p f g p f g
+p d f p d f p s d p a s
+[ep] f h p f h p f g p f g
+[ep] d f p d f p s d p a s
+[6p] 0 w [6u] 0 w [6o] 0iq [6y] 0 q
+[6e] 9 0 [6u] 9 0 6 8 9 6 7 8
+[6e] 0 w [6u] 0 w [6o] 0iq [6y] 0iq
+[6u] 9 0 6 9 [0y]t[6r] 8 9 6 7 8 [4e] 0 w [4u] 0 w
+[2o] 0iq [2y] 0iq [1u] 9 0 1 9 [0y]t[57r] 9 w e r w
+[6e] u o e u o e u i e u i [6e] y u e y u e t y e r t
+[ep] u o [ef] u o [eh] ugi [ed] ugi
+[ef] y u e y u e t y e r t
+[ep] u o [ef] u o [eh] uji [ek] uhi
+[ej] y u e y u w t y w r [th]
+[qj] [uj] o q u [oh] [9j] u i 9 u [ih]
+[8g]h[yg] [uf]d[8f] ysu [^d] E t y t E
+[es]d[us] o [ea] u o [ep] u i e u i
+[ep]a[yp] u [eo] y [up] [ep] t y e r t
+[es]d[us] o [ea] u o [ep] u i e u i
+[ep]a[yp] u e y [uO] [WO] r u O a f
+[pj] f h p f h p f g p f g
+p d f p d f p s d p a s [ep]
