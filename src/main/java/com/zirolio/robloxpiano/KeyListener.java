@@ -4,14 +4,8 @@ import com.github.kwhat.jnativehook.GlobalScreen;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyListener;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.util.Arrays;
-import java.util.stream.Collectors;
-
 public class KeyListener implements NativeKeyListener {
+
     public static void init() {
         try {
             GlobalScreen.registerNativeHook();
@@ -21,6 +15,7 @@ public class KeyListener implements NativeKeyListener {
         }
 
         GlobalScreen.addNativeKeyListener(new KeyListener());
+        System.out.println("KeyListener initialized!");
     }
 
     @Override
@@ -30,20 +25,12 @@ public class KeyListener implements NativeKeyListener {
 
         if ((mods & NativeKeyEvent.ALT_MASK) != 0) {
             if (code == NativeKeyEvent.VC_P) {
-                InputStream is = Main.class.getResourceAsStream("/melody.txt");
-                if (is == null) throw new RuntimeException("Файл не найден!");
-
-                try (BufferedReader reader = new BufferedReader(new InputStreamReader(is))) {
-                    String[] content = reader.lines().collect(Collectors.joining("\n")).split("\n", 2);
-                    System.out.println(Arrays.toString(content));
-                    SongPlayer.getInstance().play(content[1], Integer.parseInt(content[0].trim()));
-                } catch (IOException ex) {
-                    throw new RuntimeException(ex);
-                }
-
+                String melodyName = "gravity-falls";
+                Config.MelodyConfig melodyConfig = Config.get().get(melodyName);
+                MelodyPlayer.getInstance().play(melodyConfig.tabs, melodyConfig.bpm);
             }
 
-            if ((mods & NativeKeyEvent.CTRL_MASK) != 0 && code == NativeKeyEvent.VC_S) SongPlayer.getInstance().stop();
+            if ((mods & NativeKeyEvent.CTRL_MASK) != 0 && code == NativeKeyEvent.VC_S) MelodyPlayer.getInstance().stop();
         }
     }
 

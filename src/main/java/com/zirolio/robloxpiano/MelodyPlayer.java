@@ -4,12 +4,12 @@ import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.util.Arrays;
 
-public class SongPlayer {
+public class MelodyPlayer {
     private final Robot robot;
     private boolean playing = false;
     private Thread playThread;
 
-    public SongPlayer() throws AWTException {
+    public MelodyPlayer() throws AWTException {
         this.robot = new Robot();
     }
 
@@ -94,16 +94,16 @@ public class SongPlayer {
 
 
 
-    private static final SongPlayer instance;
+    private static final MelodyPlayer instance;
     static {
         try {
-            instance = new SongPlayer();
+            instance = new MelodyPlayer();
         } catch (Exception e) {
             throw new RuntimeException(e);
         }
     }
 
-    public static SongPlayer getInstance() {
+    public static MelodyPlayer getInstance() {
         return instance;
     }
 }
