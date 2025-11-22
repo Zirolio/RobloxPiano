@@ -4,8 +4,6 @@ import com.zirolio.robloxpiano.Config;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ComponentAdapter;
-import java.awt.event.ComponentEvent;
 
 public class MelodyListPanel extends JPanel {
     public MelodyListPanel() {

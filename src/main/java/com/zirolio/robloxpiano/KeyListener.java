@@ -6,14 +6,8 @@ import com.github.kwhat.jnativehook.keyboard.NativeKeyListener;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.KeyEvent;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class KeyListener implements NativeKeyListener {
-    private static boolean spin = false;
-
     public static void init() {
         try {
             GlobalScreen.registerNativeHook();

@@ -14,13 +14,6 @@ import java.util.List;
 import java.util.function.Function;
 
 public class MelodyPlayer {
-    public static ArrayList<String> NOTES_LINE = new ArrayList<>(List.of(
-            "1_", "2_", "3_", "4_", "5_", "6_", "7_", "8_", "9_", "0_", "q_", "w_", "e_", "r_", "t_",
-                    "1", "!", "2", "@", "3", "#", "4", "$", "5", "%", "6", "^", "7", "&", "8", "*", "9", "(", "0",
-                    "q", "Q", "w", "W", "e", "E", "r", "t", "T", "y", "Y", "u", "i", "I", "o", "O", "p", "P", "a", "s", "S", "d", "D", "f", "g", "G", "h", "H", "j", "J", "k", "l", "L", "z", "Z", "x", "c", "C", "v", "V", "b", "B", "n", "m",
-                    "y_", "u_", "i_", "o_", "p_", "a_", "s_", "d_", "f_", "g_", "h_", "j_"
-    ));
-
     private final Robot robot;
     private boolean playing = false;
     private Config.MelodyConfig currentMelodyConfig = null;
@@ -97,6 +90,7 @@ public class MelodyPlayer {
         TabPlayer tabPlayer = new TabPlayer(this.robot, tempo, trans);
         String iterator = tabs;
 
+        tabPlayer.playTest();
         while (!iterator.isEmpty() && this.playing) {
 
             if (iterator.startsWith("~")) {
@@ -157,6 +151,13 @@ public class MelodyPlayer {
     }
 
     public static class TabPlayer {
+        public static ArrayList<String> NOTES_LINE = new ArrayList<>(List.of(
+                "1_", "2_", "3_", "4_", "5_", "6_", "7_", "8_", "9_", "0_", "q_", "w_", "e_", "r_", "t_",
+                "1", "!", "2", "@", "3", "4", "$", "5", "%", "6", "^", "7", "8", "*", "9", "(", "0",
+                "q", "Q", "w", "W", "e", "E", "r", "t", "T", "y", "Y", "u", "i", "I", "o", "O", "p", "P", "a", "s", "S", "d", "D", "f", "g", "G", "h", "H", "j", "J", "k", "l", "L", "z", "Z", "x", "c", "C", "v", "V", "b", "B", "n", "m",
+                "y_", "u_", "i_", "o_", "p_", "a_", "s_", "d_", "f_", "g_", "h_", "j_"
+        ));
+
         private final Robot robot;
 
         final int trans;
@@ -176,34 +177,38 @@ public class MelodyPlayer {
         }
 
         private String getNoteWithTrans(String note) {
-            if (trans != 0) {
-                int newIndex = NOTES_LINE.indexOf(String.valueOf(note)) + trans;
-                if (newIndex < 0) newIndex += NOTES_LINE.size();
-                else if (newIndex >= NOTES_LINE.size()) newIndex -= NOTES_LINE.size();
+            int index = NOTES_LINE.indexOf(note);
 
-                note = NOTES_LINE.get(newIndex);
+            if (index == -1) {
+                System.err.println("NOTE NOT FOUND: " + note);
+                return note;
             }
 
-            return note;
+            int newIndex = index + trans;
+            if (newIndex < 0) newIndex += NOTES_LINE.size();
+            else if (newIndex >= NOTES_LINE.size()) newIndex -= NOTES_LINE.size();
+
+            return NOTES_LINE.get(newIndex);
         }
 
-        private void pressNote(char note) {
+        private void pressNote(char note) { pressNote(String.valueOf(note), false, false); }
+        private void pressNote(String note) { pressNote(note, false, false); }
+        private void pressNote(String note, boolean isUpper, boolean isCtrl) {
             int keyCode;
-            boolean isUpper = false, isCtrl = false;
 
-            String noteToPlay = getNoteWithTrans(String.valueOf(note));
-            note = noteToPlay.charAt(0);
+            String noteToPlay = getNoteWithTrans(note);
+            char noteKey = noteToPlay.charAt(0);
 
             if (noteToPlay.length() >= 2 && noteToPlay.charAt(1) == '_') isCtrl = true;
 
-            if ("!@#$%^&*()".contains(String.valueOf(note))) {
+            if ("!@#$%^&*()".contains(String.valueOf(noteKey))) {
                 keyCode = KeyEvent.getExtendedKeyCodeForChar(
-                        "1234567890".charAt("!@#$%^&*()".indexOf(note))
+                        "1234567890".charAt("!@#$%^&*()".indexOf(noteKey))
                 );
                 isUpper = true;
             } else {
-                keyCode = KeyEvent.getExtendedKeyCodeForChar(Character.toLowerCase(note));
-                isUpper = Character.isUpperCase(note);
+                keyCode = KeyEvent.getExtendedKeyCodeForChar(Character.toLowerCase(noteKey));
+                isUpper = Character.isUpperCase(noteKey);
             }
 
             if (keyCode == KeyEvent.VK_UNDEFINED) return;
@@ -214,17 +219,18 @@ public class MelodyPlayer {
             if (isCtrl) this.robot.keyRelease(KeyEvent.VK_CONTROL);
         }
 
-        private void releaseNote(char note) {
+        private void releaseNote(char note) { releaseNote(String.valueOf(note)); }
+        private void releaseNote(String note) {
             int keyCode;
 
-            String noteToPlay = getNoteWithTrans(String.valueOf(note));
-            note = noteToPlay.charAt(0);
+            String noteToPlay = getNoteWithTrans(note);
+            char noteKey = noteToPlay.charAt(0);
 
-            if ("!@#$%^&*()".contains(String.valueOf(note)))
+            if ("!@#$%^&*()".contains(String.valueOf(noteKey)))
                 keyCode = KeyEvent.getExtendedKeyCodeForChar(
-                        "1234567890".charAt("!@#$%^&*()".indexOf(note))
+                        "1234567890".charAt("!@#$%^&*()".indexOf(noteKey))
                 );
-            else keyCode = KeyEvent.getExtendedKeyCodeForChar(Character.toLowerCase(note));
+            else keyCode = KeyEvent.getExtendedKeyCodeForChar(Character.toLowerCase(noteKey));
 
             if (keyCode == KeyEvent.VK_UNDEFINED) return;
             this.robot.keyRelease(keyCode);
@@ -272,87 +278,14 @@ public class MelodyPlayer {
             Thread.sleep((long) (this.minimalBeat / 2 * 1000));
             this.robot.keyRelease(KeyEvent.VK_SPACE);
         }
+
+        public void playTest() throws InterruptedException {
+            for (String note : NOTES_LINE) {
+                pressNote(note);
+                Thread.sleep((long) (this.beat / 4 * 1000));
+                releaseNote(note);
+                Thread.sleep((long) (this.beat / 4 * 1000));
+            }
+        }
     }
 }
-
-/*public void play(Config.MelodyConfig config, Runnable callback) {
-        stop();
-        if (config == null) return;
-        this.currentMelodyConfig = config;
-        this.playing = true;
-
-        this.playThread = new Thread(() -> {
-            try { // Pre play pause
-                Thread.sleep((long) (3 * 1000));
-            } catch (InterruptedException ignored) {
-                this.playing = false;
-                if (callback != null) SwingUtilities.invokeLater(callback);
-                return;
-            }
-
-            if (this.playing) {
-                // Start playing
-                System.out.println("Play " + config.name);
-
-                String[] tabs = config.tabs.split("\\s+");
-                for (String tab : tabs) {
-                    if (!this.playing) break;
-                    try {
-                        this.playTab(tab, config.bpm);
-                    } catch (InterruptedException e) {
-                        // playing = false;
-                        break;
-                    }
-                }
-            }
-
-            this.playing = false;
-            this.currentMelodyConfig = null;
-            if (callback != null) SwingUtilities.invokeLater(callback);
-        });
-
-        this.playThread.start();
-    }
-
-    @SuppressWarnings("BusyWait")
-    private void playTab(String tabText, int tempoBPM) throws InterruptedException {
-        if (tabText.isEmpty()) return;
-        System.out.println("Playing: " + tabText);
-
-        final float beat = 60f / tempoBPM;      // длительность одного удара
-        final float shortPause = beat / 4;      // короткая пауза между нотами
-        final float midPause = beat / 2;        // пауза при '|'
-
-        TabIterator iterator = new TabIterator(tabText);
-
-        while (iterator.hasNext()) {
-            String item = iterator.next();
-            if (item.isEmpty()) continue;
-
-            System.out.println("- " + item);
-
-            if (item.equals("|") || item.equals("-")) {
-                Thread.sleep((long) (midPause * 1000));
-                continue;
-            }
-
-            String preArr = item.endsWith("|") || item.endsWith("-") ? item.substring(0, item.length() - 1) : item;
-            String[] itemArr = (preArr.startsWith("[") ? preArr.substring(1, preArr.length() - 1) : preArr).split("");
-
-            for (String keyChar : itemArr) {
-                int keyCode = KeyEvent.getExtendedKeyCodeForChar(keyChar.charAt(0));
-                if (keyCode == KeyEvent.VK_UNDEFINED) continue;
-                this.robot.keyPress(keyCode);
-            }
-            Thread.sleep((long) (shortPause * 1000));
-
-            if (item.endsWith("|") || item.endsWith("-")) Thread.sleep((long) (midPause * 1000));
-            for (String keyChar : itemArr) {
-                int keyCode = KeyEvent.getExtendedKeyCodeForChar(keyChar.charAt(0));
-                if (keyCode == KeyEvent.VK_UNDEFINED) continue;
-                this.robot.keyRelease(keyCode);
-            }
-            if (!item.endsWith("|") && !item.endsWith("-")) Thread.sleep((long) (shortPause * 1000));
-
-        }
-    }*/

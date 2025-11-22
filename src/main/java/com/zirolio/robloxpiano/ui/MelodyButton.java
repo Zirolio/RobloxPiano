@@ -5,10 +5,7 @@ import com.zirolio.robloxpiano.MelodyPlayer;
 
 import javax.swing.*;
 import javax.swing.border.Border;
-import javax.swing.border.EmptyBorder;
 import java.awt.*;
-import java.awt.event.ComponentAdapter;
-import java.awt.event.ComponentEvent;
 import java.awt.event.MouseAdapter;
 import java.awt.event.MouseEvent;
 
@@ -172,7 +169,6 @@ public class MelodyButton extends JPanel {
 
         nameLabel.setText(nameToShow);
 
-        // --- Теперь дата, берём оставшееся место ---
         if (dateLabel != null) {
             int nameWidthUsed = fm.stringWidth(nameToShow);
             int spaceLeft = availableWidth - nameWidthUsed;
@@ -185,10 +181,10 @@ public class MelodyButton extends JPanel {
                 } else if (shortDateWidth <= spaceLeft) {
                     dateLabel.setText(shortDate);
                 } else {
-                    dateLabel.setText(""); // если совсем не помещается
+                    dateLabel.setText("");
                 }
             } else {
-                dateLabel.setText(""); // места нет
+                dateLabel.setText("");
             }
         }
     }
