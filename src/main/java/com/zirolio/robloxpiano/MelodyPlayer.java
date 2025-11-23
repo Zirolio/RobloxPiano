@@ -90,7 +90,7 @@ public class MelodyPlayer {
         TabPlayer tabPlayer = new TabPlayer(this.robot, tempo, trans);
         String iterator = tabs;
 
-        tabPlayer.playTest();
+        // tabPlayer.playTest();
         while (!iterator.isEmpty() && this.playing) {
 
             if (iterator.startsWith("~")) {

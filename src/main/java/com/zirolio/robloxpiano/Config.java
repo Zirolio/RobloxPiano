@@ -45,6 +45,8 @@ public class Config extends ArrayList<Config.MelodyConfig> {
         Config refreshed = new Config();
 
         for (MelodyConfig config : INSTANCE) {
+            if (config.custom) continue;
+
             String url = config.url != null ? config.url :
                     "https://virtualpiano.net/music-sheet/" + config.name
                             .replaceAll("\\(", "")
@@ -87,6 +89,7 @@ public class Config extends ArrayList<Config.MelodyConfig> {
         public String date = "???";
         public String playTime = "??:??";
         public String url = "";
+        public boolean custom = false;
 
 
         public MelodyConfig() {}
