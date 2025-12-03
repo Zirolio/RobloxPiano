@@ -7,10 +7,9 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.KeyEvent;
 import java.lang.reflect.Array;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collection;
+import java.util.*;
 import java.util.List;
+import java.util.concurrent.ThreadLocalRandom;
 import java.util.function.Function;
 
 public class MelodyPlayer {
@@ -41,16 +40,14 @@ public class MelodyPlayer {
     public void play(Config.MelodyConfig config) { this.play(config, null); }
     /**
      * Проигрывает песню.
-     * @param config melody config
+     * @param config melody config (if == null => playRandom)
      * @param callback callback function
      */
     public void play(Config.MelodyConfig config, Runnable callback) {
         stop();
-        if (config == null) return;
+        // if (config == null) return;
         this.currentMelodyConfig = config;
         this.playing = true;
-
-        System.out.println(this.normalizeTabs(config.tabs));
 
         this.playThread = new Thread(() -> {
             try { // Pre play pause
@@ -63,10 +60,14 @@ public class MelodyPlayer {
 
             if (this.playing) {
                 // Start playing
-                System.out.println("Play " + config.name);
-
                 try {
-                    this.playProcessor(this.normalizeTabs(config.tabs), config.tempo, config.trans);
+                    if (config != null) {
+                        System.out.println("Playing " + config.name);
+                        this.playProcessor(this.normalizeTabs(config.tabs), config.tempo, config.trans);
+                    } else {
+                        System.out.println("Playing random");
+                        new TabPlayer(robot, 0, 0).playRandom();
+                    }
                 } catch (InterruptedException ignored) {}
             }
 
@@ -90,6 +91,7 @@ public class MelodyPlayer {
         TabPlayer tabPlayer = new TabPlayer(this.robot, tempo, trans);
         String iterator = tabs;
 
+        // tabPlayer.playRandom();
         // tabPlayer.playTest();
         while (!iterator.isEmpty() && this.playing) {
 
@@ -170,9 +172,9 @@ public class MelodyPlayer {
         public TabPlayer(Robot robot, int tempo, int trans) {
             this.robot = robot;
             this.trans = trans;
-            this.beat = 60f / tempo / 2;
-            this.minimalBeat = beat / 10;
-            this.shortPause = beat / 2;
+            this.beat = 60f / tempo / 2f;
+            this.minimalBeat = beat / 10f;
+            this.shortPause = beat / 2f;
             this.midPause = beat;
         }
 
@@ -279,13 +281,15 @@ public class MelodyPlayer {
             this.robot.keyRelease(KeyEvent.VK_SPACE);
         }
 
-        public void playTest() throws InterruptedException {
-            for (String note : NOTES_LINE) {
+        public void playRandom() throws InterruptedException {
+            while (MelodyPlayer.instance.playing) {
+                String note = NOTES_LINE.get(ThreadLocalRandom.current().nextInt(NOTES_LINE.size()));
                 pressNote(note);
-                Thread.sleep((long) (this.beat / 4 * 1000));
+                Thread.sleep((long) (1));
                 releaseNote(note);
-                Thread.sleep((long) (this.beat / 4 * 1000));
+                Thread.sleep((long) (1));
             }
         }
     }
 }
+// --iiisa --asp--pao--iiisaaa--spppao--iiisa--asp--pao--iii--iiiiiiiiu

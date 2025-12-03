@@ -7,7 +7,8 @@
     "author": "ibi",
     "date": "10 December 2024",
     "playTime": "02:15",
-    "url": "https://virtualpiano.net/music-sheet/1000-doors-ibi/"
+    "url": "https://virtualpiano.net/music-sheet/1000-doors-ibi/",
+    "custom": false
   },
   {
     "name": "2An (Attack on Titan)",
@@ -17,7 +18,8 @@
     "author": "Hiroyuki Sawano",
     "date": "31 August 2022",
     "playTime": "01:52",
-    "url": "https://virtualpiano.net/music-sheet/2an-attack-on-titan/"
+    "url": "https://virtualpiano.net/music-sheet/2an-attack-on-titan/",
+    "custom": false
   },
   {
     "name": "A Contract (Death’s Gambit)",
@@ -27,7 +29,19 @@
     "author": "Kyle Hnedak",
     "date": "4 December 2020",
     "playTime": "02:40",
-    "url": "https://virtualpiano.net/music-sheet/a-contract-deaths-gambit-kyle-hnedak/"
+    "url": "https://virtualpiano.net/music-sheet/a-contract-deaths-gambit-kyle-hnedak/",
+    "custom": false
+  },
+  {
+    "name": "A Cruel Angel’s Thesis",
+    "tempo": 120,
+    "trans": 3,
+    "tabs": "[tpe]--s--~[qed]-~s-~d-~[wrd]--h-g-~[wtf]~d-f--~[tfe]--h--~[qje]-~d-~s-~[wrh]-h-f-h-~[qhe]-~j---~[je][wh][f0][d9][f0][d9][s8][o5]~[tp6]~0~[utse]~0~[id2]~9sq~[d9]~[da5]~[da9]~[wh]~[g9]~[f1]dw[of][ut]~w~[pf6]~0~[thfe]~0~[jg2]~9d[qe]~[s9]~[woh5]~[woh5]~[uf30]~[woh5]~[woh5]~[pje6]-~1~w~[uts]~[wo]o[ut]~w~[ut]~[ws]~[so5]~9d[wr]~[o9]~[wro]~9~[wr]~[o9]~[sf6]~0g[te]~[f0]~[da5]~9s[wr]~[d9]~[pf4]~6g[qe]~[f6]~[qpe]~6~[qe]~[p6]a~[sp2]~q[sp][te]~[qa]~[a5]~9~[wr]~[s9]d~[sg1]~5f[w0]~[d5]~[s6]~6~[e0]~[f6]~[fa7]~Qd[yr]~[SQ]~[yrd]~Q~[yrp]~Q~[up3]~0~[rW]~[aO0]~[raWO]~0~[rW]~0~1~w~[uts]~[wo]o[ut]~w~[ut]~[ws]~[so5]~9d[wr]~[o9]~[wro]~9~[wr]~[j9]h~[sf6]~0g[te]~[f0]~[da5]~9s[wr]~[d9]~[pf4]~6g[qe]~[f6]~[qpe]~6~[qe]~[p6]a~[sp2]~q[sp][te]~[qa]~[a5]~9~[wr]~[s9]d~[sg1]~5f[w0]~[d5]~[s6]~6~[e0]~[f6]~[fa7]~Qd[yr]~[SQ]~[yrda]~Qf[yr]~[gQ]~[fa3]~0~[raWO]~0~[srpW]~0~[rdaW]~0~[tsqpe]~[tsqpe]~a~s~s[tqe]~a~[wrd0]~[wrd0]~s~a~p[wr0]~a~[tsq9]~[tsq9]~a~d~a[ywr]~p~[todP8]-[srf7]-[gd^E]-[hfe6]",
+    "author": "Yoko Takahashi",
+    "date": "27 August 2020",
+    "playTime": "01:38",
+    "url": "https://virtualpiano.net/music-sheet/a-cruel-angels-thesis-yoko-takahashi/",
+    "custom": false
   },
   {
     "name": "A Perfect World (Fable 2)",
@@ -37,7 +51,8 @@
     "author": "Russell Shaw",
     "date": "2 December 2020",
     "playTime": "00:24",
-    "url": "https://virtualpiano.net/music-sheet/a-perfect-world-fable-2-russell-shaw/"
+    "url": "https://virtualpiano.net/music-sheet/a-perfect-world-fable-2-russell-shaw/",
+    "custom": false
   },
   {
     "name": "A Spring Without You (Your Lie in April)",
@@ -47,7 +62,8 @@
     "author": "Masaru Yokoyama",
     "date": "31 August 2022",
     "playTime": "01:45",
-    "url": "https://virtualpiano.net/music-sheet/a-spring-without-you-your-lie-in-april/"
+    "url": "https://virtualpiano.net/music-sheet/a-spring-without-you-your-lie-in-april/",
+    "custom": false
   },
   {
     "name": "A Tender Feeling (Sword Art Online)",
@@ -57,7 +73,41 @@
     "author": "LiSA",
     "date": "11 November 2020",
     "playTime": "01:54",
-    "url": "https://virtualpiano.net/music-sheet/a-tender-feeling-sword-art-online/"
+    "url": "https://virtualpiano.net/music-sheet/a-tender-feeling-sword-art-online/",
+    "custom": false
+  },
+  {
+    "name": "Angels (Robbie Williams)",
+    "tempo": 76,
+    "trans": 5,
+    "tabs": "[8t]-~[8t]-~[8t]-~[8t]~q~[8t]-~[8t]-~8~w~[8u]yt~8-~8-~8~u~[8o]~p~[8p]~o~8-~8~u~[8o]~p~8~o~8~o~8-~8-~7-~7-~7~w~[7u]yt~8-~8~w~[8u]~yu8yu~8-~8~uy[8u]~o~8~o~8-~8-~8-~8-~7-~7~w~[7u]~y~[7y]~t~[9t]-~9-~9~u~[9o]~p~8~o~8-~8~u~[8o]~p~8~o~8~o~8-~8-~8-~8-~8~u~[8u]~i~[9i]uiu[9i]-~9-~9~o~[8i]uiu[8i]-~8-~8~uu[8u]yuy[8u]-~8-~8-~^~i~i~i~[6u]~y~t~t~8-~8~t~[8u]~o~8~d~7-~7~s~[7d]~sd7sf~[8d]-~8~p~[8s]ps~[8s]~pd8~s~8-~[8p]pp~[8p]~o~[8o]-~8~t~[8tu]~[tu][uo]8[uo][ad]~7-~7~s~[7d]s~d7s~f8d~8~p~[8s]~ps8p~d8~s~8-~[8p]~pp8oo~8-~8-~8~u~[8y]~tu9~y--[ei]~[wu]~[qy]~[0t]~[^y]~i~i~i~[6u]~y~t~t~8",
+    "author": "Robbie Williams",
+    "date": "8 August 2025",
+    "playTime": "1:31",
+    "url": "https://virtualpiano.net/music-sheet/angels-robbie-williams/",
+    "custom": false
+  },
+  {
+    "name": "Angry Birds (Alternative)",
+    "tempo": 120,
+    "trans": -5,
+    "tabs": "pa[se]~p~f~pa[se]~f~f-[tf]gfd[sr]~sa[pe]--pa[se]~[utp]~0~[uts]d[fe]~[uts]~0~[utf]G[th]G[uoh]G[rh]j[yhI]G[fe]~[ut]~0~[utp]a[se]~[utp]~0~[uts]d[fe]~[uts]~0~[utf]G[th]G[uoh]G[rh]j[yhI]G[fe]~[ut]~0~[utf]G[th]~[uoh]~[wh]~[uoh]~[th]j[uoh]G[wh]~[uof]G[th]~[uoh]~[rG]~[yIG]d[pe]~[utf]~[f0]~[utf]G[th]~[uoh]~[wh]~[uoh]~[th]j[uoh]G[wh]~[uof]G[th]~[uoh]~[rG]~[yIG]d[pe]~[ut]~0~[ut]~[pe]~[ut]O[p0]~[uta]~[se]~[ut]a[s0]~[utd]~[edD]~[utdD]~[dD0]~[ut]~[zeZ]~[zutZ]~[zZ0]~[ut]~[pe]~[ut]O[p0]~[uta]~[se]~[ut]a[s0]~[utd]~[heG]~[uthG]~[hG0]~[ut]~[veC]~[vutC]~[vC0]~[ut]~[fe]~[ut]f[f0]~[utD]~[fe]~[ut]f[f0]~[utf]~[feD]~[utfD]~[fD0]~[ut]~[xeZ]~[xutZ]~[xZ0]~[ut]~[fe]~[ut]f[f0]~[utg]~[fe]~[ut]f[f0]~[utf]~[heG]~[uthG]~[hG0]~[ut]~[veC]~[vutC]~[vC0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utf]g[f0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utp]f[p0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utf]g[f0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utp]f[p0]~[ut]~[se]~[uts]~[s0]~[uts]~[se]d[uts]a[s0]~[utp]a[se]~[uts]~[s0]d[uts]a[pe]~[ut]~0~[utp]a[se]~[uts]~[s0]~[uts]~[se]d[uts]a[s0]~[utp]a[se]~[uts]~[s0]d[uts]a[pe]~[ut]~0~[uts]d[tf]~[uof]~[wf]~[uof]~[tf]G[uof]d[wf]~[uso]d[tf]~[uof]~[wh]G[uoh]G[tf]~[uo]~w~[upo]a[se]~[uts]~[s0]~[uts]~[se]d[uts]a[s0]~[utp]a[se]~[uts]~[s0]d[uts]a[pe]~[ut]~e~pa[se]~p~f~pa[se]~f~f-[tf]gfd[sr]~sa[pe]--pa[se]~[utp]~0~[uts]d[fe]~[uts]~0~[utf]G[th]G[uoh]G[rh]j[yhI]G[fe]~[ut]~0~[utp]a[se]~[utp]~0~[uts]d[fe]~[uts]~0~[utf]G[th]G[uoh]G[rh]j[yhI]G[fe]~[ut]~0~[utf]G[th]~[uoh]~[wh]~[uoh]~[th]j[uoh]G[wh]~[uof]G[th]~[uoh]~[rG]~[yIG]d[pe]~[utf]~[f0]~[utf]G[th]~[uoh]~[wh]~[uoh]~[th]j[uoh]G[wh]~[uof]G[th]~[uoh]~[rG]~[yIG]d[pe]~[ut]~0~[ut]~[pe]~[ut]O[p0]~[uta]~[se]~[ut]a[s0]~[utd]~[edD]~[utdD]~[dD0]~[ut]~[zeZ]~[zutZ]~[zZ0]~[ut]~[pe]~[ut]O[p0]~[uta]~[se]~[ut]a[s0]~[utd]~[heG]~[uthG]~[hG0]~[ut]~[veC]~[vutC]~[vC0]~[ut]~[fe]~[ut]f[f0]~[utD]~[fe]~[ut]f[f0]~[utf]~[feD]~[utfD]~[fD0]~[ut]~[xeZ]~[xutZ]~[xZ0]~[ut]~[fe]~[ut]f[f0]~[utg]~[fe]~[ut]f[f0]~[utf]~[heG]~[uthG]~[hG0]~[ut]~[veC]~[vutC]~[vC0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utf]g[f0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utp]f[p0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utf]g[f0]~[ut]~[pe]~[ut]~[a0]~[ut]~[se]~[utp]f[p0]~[ut]~[se]~[uts]~[s0]~[uts]~[se]d[uts]a[s0]~[utp]a[se]~[uts]~[s0]d[uts]a[pe]~[ut]~0~[utp]a[se]~[uts]~[s0]~[uts]~[se]d[uts]a[s0]~[utp]a[se]~[uts]~[s0]d[uts]a[pe]~[ut]~0~[uts]d[tf]~[uof]~[wf]~[uof]~[tf]G[uof]d[wf]~[uso]d[tf]~[uof]~[wh]G[uoh]G[tf]~[uo]~w~[upo]a[se]~[uts]~[s0]~[uts]~[se]d[uts]a[s0]~[utp]a[se]~[uts]~[s0]d[uts]a[pe]~[ut]~e~pa[se]~p~f~pa[se]~f~f-[tf]gfd[sr]~sa[pe]--pa",
+    "author": "Ari Pulkkinen",
+    "date": "13 May 2021",
+    "playTime": "02:06",
+    "url": "https://virtualpiano.net/music-sheet/angry-birds-theme-song/",
+    "custom": false
+  },
+  {
+    "name": "Another Love (Tom Odell)",
+    "tempo": 120,
+    "trans": -5,
+    "tabs": "[8qep]-s~[8qep]~s~d~[8qe]~f~[80e]~s~a~[9qep]-g~[9qe]~f~[80e]-s~[80e]-d~[80e]~a~[9wr]-a~[9wr]-s~[9wr]~p~[8qe]-s~[8qe]-d~[8qe]~f~[80e]~s~a~[9qep]-g~[9qe]~f~[80e]-s~[80e]-d~[80e]~a~[9wr]-a~[9wr]-s~[9wr]~p~[8qe]-p~[8qei]-p~[8qei]-~[8qe]-p~[8qei]-p~[8qei]-~[8qei]~s~s~s~s-d~f~[80e]~s-s~[9qeg]~g-f~[80e]-~s~s~d-a~[9wr]-a~p~a~s-p~[8qe]-~s~s-d~f~[80e]~s-s~[9qeg]~g-f~[80e]-~s~s~d-a~[9wr]-a~p~a~s-~[8qe]-p--~[8qe]---~[8qe]-s~s~s~d-f~[80e]~s~s~s~[9qeg]~g-f~[80e]-~s~s~d-a~[9wr]-~a~a~s-p~[8qe]-~s~s~d-f~[80e]-f~f~[9qeg]~g-f~[80e]-~f~f~f-d~[9wr]-~d~d~f-~[8qe]-s--~[8qe]---~[8qe]-f~f~f~g~f-~[80w]-~f~f~g~f-~[80e]--f~g-h~[9wr]-g-f~g-f~[8qe]-f~f~f~g~f-~[80w]-~f~f~g~f-~[80e]--f~g-h~[9wr]-g-f~g-f~[8qe]-h~h~h~j~h-~[80w]-~h~h~j~h-~[80ef]--f~g-h~[9wr]-g-f~g-f~[8qe]--s--~[80wo]---~[80ed]~f--~[9wrd]",
+    "author": "Tom Odell",
+    "date": "16 August 2024",
+    "playTime": "01:30",
+    "url": "https://virtualpiano.net/music-sheet/another-love-tom-odell/",
+    "custom": false
   },
   {
     "name": "Asgore Theme (Undertale)",
@@ -67,7 +117,8 @@
     "author": "Toby Fox",
     "date": "28 November 2023",
     "playTime": "02:49",
-    "url": "https://virtualpiano.net/music-sheet/asgore-theme-undertale/"
+    "url": "https://virtualpiano.net/music-sheet/asgore-theme-undertale/",
+    "custom": false
   },
   {
     "name": "BEAUTY AND THE BEAST (Kanye West)",
@@ -77,7 +128,8 @@
     "author": "Kanye West",
     "date": "8 September 2025",
     "playTime": "01:48",
-    "url": "https://virtualpiano.net/music-sheet/beauty-and-the-beast-kanye-west/"
+    "url": "https://virtualpiano.net/music-sheet/beauty-and-the-beast-kanye-west/",
+    "custom": false
   },
   {
     "name": "Bad Guy (Easy)",
@@ -87,7 +139,8 @@
     "author": "Billie Eilish",
     "date": "27 August 2020",
     "playTime": "01:22",
-    "url": "https://virtualpiano.net/music-sheet/bad-guy/"
+    "url": "https://virtualpiano.net/music-sheet/bad-guy/",
+    "custom": false
   },
   {
     "name": "Best Day Of My Life",
@@ -97,7 +150,8 @@
     "author": "American Authors",
     "date": "27 August 2020",
     "playTime": "03:11",
-    "url": "https://virtualpiano.net/music-sheet/best-day-of-my-life/"
+    "url": "https://virtualpiano.net/music-sheet/best-day-of-my-life/",
+    "custom": false
   },
   {
     "name": "Black Swan",
@@ -107,7 +161,19 @@
     "author": "BTS",
     "date": "27 August 2020",
     "playTime": "01:55",
-    "url": "https://virtualpiano.net/music-sheet/black-swan/"
+    "url": "https://virtualpiano.net/music-sheet/black-swan/",
+    "custom": false
+  },
+  {
+    "name": "Bluebird (Alexis Ffrench)",
+    "tempo": 150,
+    "trans": 0,
+    "tabs": "t-[uf]~d~[of]~s~[ta]-u-o-u-[of]-[ah]-u--~t-[uf]~d~[of]~s~[ta]-u-o-u-[of]-[ah]-u--~[qp]-e-t-q-[ep]~a~[ts]~g~[wf]-t-u-~[wd]-r-y-~[qp]-e-t-~q-[ep]~a~[ts]~g~[wf]-t-u-[wrd]--~y-[id]~f~[pd]~f~[yg]~h~g~h~j~l~[ej]-t-u-~[ef]-t-u-~y-[id]~f~[pd]~f~[yg]~h~g~h~j~l~[qj]-e-t-q-e-[rh]~g~[th]-u-o-~t-u-[og]~f~[Eh]-y-o-~E-y-[og]~f~[eg]~f~[td]-i-~e-t-i~f~[Wg]~f~[td]-i-~w-t-[rf]-[ts]-f~d~f~s~[ta]-u-o-u-[of]-[ah]-u--~t-[uf]~d~[of]~s~[ta]-u-o-~u-[of]-[ah]-u--~[qp]-e-t-q-[ep]~a~[ts]~g~[wf]-t-u-~[wd]-r-y-~[qp]-e-t-~q-[ep]~a~[ts]~g~[wf]-t-u-[wrd]--~y-[id]~f~[pd]~f~[yg]~h~g~h~j~l~[ej]-t-u-~[ef]-t-u-~y-[id]~f~[pd]~f~[yg]~h~g~h~j~l~[qj]-e-t-q-e-[rh]~g~[th]-u-o-t-u-[og]~f~[Eh]-y-o-E-y-[og]~f~[eg]~f~[td]-i-e-t-i~f~[Wg]~f~[td]-i-~[Wd]-t-[ih]-~[wf]-t-u-w-t-[ud]~s~[Qf]-e-t-Q-e-[td]~s~[qf]-e-t-q-e-[td]~s~[wd]-t-y-[wr]--s~a~[ts]~u~t-o-~[ts]~u~t-o-~[ua]~o~u-o-~[ua]~o~u-o-~[ts]~u~t-o-~[ts]~u~t-o-~[ua]~o~u-o-~[ua]~o~u-o-~[qp]-e-t-q-[ep]~a~[ts]~g~[wf]-t-u-~[wd]-r-y-~[qp]-e-t-~q-[ep]~a~[ts]~g~[wf]-t-u-[wrd]--~y-[ij]~h~[pj]~h~[yg]~h~g~h~j~l~[ej]-t-u-~[ef]-t-u-~y-[ij]~h~[pj]~h~[yg]~h~g~h~j~l~[qj]-e-t-q-e-[rh]~g~[th]-u-o-t-u-[og]~f~[Eh]-y-o-E-y-[og]~f~[eg]~f~[td]-i-e-t-i~f~[Wg]~f~[td]-i-W-t-[ih]-~[wf]-t-u-w-t~s~[uf]~j~[Qf]-e-t-Q-e-[td]~s~[qf]-e-t-q-e-[td]~s~[wd]-t-y-[wr]--s~a~[ts]~u~t-o-~[ts]~u~t-o-~[ua]~o~u-o-~[ua]~o~u-o-~[ts]~u~t-o-~[ts]~u~t-o-~[ua]~o~u-o-~[ua]~o~u-o-~[qp]-e-t-q-[ep]~a~[ts]~g~[wf]-t-u-~[wd]-r-y-~[qp]-e-t-~q-[ej]~h~[tg]~s~[wf]-t-u-[wrd]--~y-[id]~f~[pd]~f~[yg]~h~g~h~j~l~[ej]-t-u-~[ef]-t-u-~y-[id]~f~[pd]~f~[yg]~h~g~h~j~l~[ts]-[uf]~d~[of]~s~[ta]-u-o-~u-[of]-[ah]-u--~t-[uf]~d~[of]~s~[ta]-u-o-~u-[of]-[ah]-u--~t-[uf]~d~[of]~s~a",
+    "author": "",
+    "date": "5 May 2023",
+    "playTime": "02:51",
+    "url": "https://virtualpiano.net/music-sheet/bluebird-alexis-ffrench/",
+    "custom": false
   },
   {
     "name": "Break the Cycle (Arcane)",
@@ -117,7 +183,19 @@
     "author": "Arcane",
     "date": "8 April 2025",
     "playTime": "01:16",
-    "url": "https://virtualpiano.net/music-sheet/break-the-cycle-arcane/"
+    "url": "https://virtualpiano.net/music-sheet/break-the-cycle-arcane/",
+    "custom": false
+  },
+  {
+    "name": "Chess",
+    "tempo": 100,
+    "trans": 0,
+    "tabs": "[6e],~[30],~[18],~[30u],~[2sgj]~-~[qet]~-~[qet]~H~[qetj]~[3adH]~-~[Wryf]~-~h~[Wry]~g~[Wry]~[6osf]~-~[0wtu]~-~[0wtu]~d~[0wtuf]~[6od]~-~[0wtua]~-~d~[0wtu]~s~[0wt]~[2ip]~-~[qet]~-~[qet]~s~[qetd]~[O30us]~-~[Wryd]~-~h~[Wry]~g~[Wry]~[6osf]~-~[0wtuo]~-~[0wtu]~d~[0wtuf]~[6od]~-~[0wtus]~-~d~[0wtuo]~s~[0wt]~[2sgj]~-~[qet]~-~[qet]~H~[qetj]~[3adH]~-~[Wryf]~-~h~[Wry]~g~[Wry]~[6osf]~-~[0wtu]~-~[0wtu]~d~[0wtuf]~[6od]~-~[0wtua]~-~d~[0wtu]~s~[0wt]~[2ip]~-~[qet]~-~[qet]~s~[qetd]~[O30us]~-~[Wryd]~-~h~[Wry]~g~[Wry]~[6osf]~-~[0wtuo]~-~[0wtu]~d~[0wtf]~[6uod]~-~[0wtus]~-~d~[0wtu]~f~[0wtu]~[2jlcb]~-~[qet]~-~[qet]~[HV]~[qetjb]~[3kzHV]~-~[Wryfx]~-~[hv]~[Wry]~[gc]~[Wry]~[6fhlx]~-~[0wtu]~-~[0wt]~[dz]~[0wtufx]~[6dhz]~-~[0wtuak]~-~[dz]~[0wtu]~[sl]~[0wt]~[2pg]~-~[qet]~-~[qet]~[sl]~[qetdz]~[3sfH]~-~[Wrydz]~-~[hv]~[Wry]~[gc]~[Wry]~[6fhlx]~-~[0wtu]~-~[0wtu]~[dz]~[0wtufx]~[6dhz]~-~[0wtusl]~-~[dz]~[0wt]~[sl]~[0wt]~[2jlcb]~-~[qet]~-~[qet]~[HV]~[qetijb]~[3kzHV]~-~[Wryfx]~-~[hv]~[Wry]~[gc]~[Wry]~[6fhlx]~-~[0wtu]~-~[0wtu]~[dz]~[0wtufx]~[6dhz]~-~[0wtuak]~-~[dz]~[0wtu]~[sl]~[0wt]~[2pgj]~-~[qet]~-~[qet]~[sl]~[qetdz]~[3sfH]~-~[Wrydz]~-~[hv]~[Wry]~[gc]~[Wry]~[6fhlx]~-~[0wtu],~[dz]~[fx]~[dhz]~-~[sl]~-~[dz]~-~[fx]-",
+    "author": "Various",
+    "date": "14 November 2025",
+    "playTime": "2:23",
+    "url": "https://virtualpiano.net/music-sheet/chess/",
+    "custom": false
   },
   {
     "name": "Copycat",
@@ -127,7 +205,8 @@
     "author": "Billie Eilish",
     "date": "27 August 2020",
     "playTime": "03:17",
-    "url": "https://virtualpiano.net/music-sheet/copycat-billie-eilish/"
+    "url": "https://virtualpiano.net/music-sheet/copycat-billie-eilish/",
+    "custom": false
   },
   {
     "name": "Creep (Radiohead) (Alternative)",
@@ -137,17 +216,30 @@
     "author": "Radiohead",
     "date": "17 June 2024",
     "playTime": "01:25",
-    "url": "https://virtualpiano.net/music-sheet/creep-radiohead-2/"
+    "url": "https://virtualpiano.net/music-sheet/creep-radiohead-2/",
+    "custom": false
   },
   {
     "name": "Day One (Interstellar)",
-    "tempo": 95,
+    "tempo": 75,
     "trans": 0,
     "tabs": "u-u-u-u-u-u-u-u-~[eup]-u-u-[rua]-u-u-u-u-u-~[eup]-[rua]-[tus]-[rua]-[eup]-[rua]-[tus]-u-u-~[rua]-u-u-u-u-u-~[eup]-u-[uf]-[tus]-u-u-~[rua]-u-u-u-u-u-~[eup]-[uf]-[tus]-[rua]-[eup]-[rua]-[tus]-u-u-~[rua]-u-u-u-u-u-~[eup]-[uf]-[tus]-[rua]-[eup]-[rua]-[tus]-u-u-~[yud]-u-u-[uf]-u-u-~[eup]~a~[us]~a~[up]~s~[rua]~p~[uo]~p~[ua]~o~[ua]~p~[uo]~p~[ua]~o~[eup]~s~[rua]~d~[tus]~p~[rua]~o~[eup]~s~[rua]~d~[tus]~d~[us]~a~[up]~s~[rua]~p~[uo]~p~[ua]~o~[ua]~p~[uo]~f~[ua]~o~[eup]~a~[us]~a~[uf]~a~[tus]~d~[us]~a~[up]~s~[rua]~p~[uo]~p~[ua]~o~[ua]~p~[uo]~f~[ua]~o~[eup]~s~[uf]~a~[tus]~p~[rua]~o~[eup]~s~[rua]~d~[tus]~a~[up]~a~[us]~p~[yud]~s~[ua]~s~[ud]~a~[uf]-[uf]-[uf]-[uf]-[uf]-[uf]-[uf]-[uf]-~[qup]-[uf]-u-[up]-[uf]-u-~[wua]-[uf]-u-[ua]-[uf]-u-~[eus]-[uf]-u-[us]-[uf]-u-~[wud]-[uf]-u-[ud]-[uf]-[ua]-~[4qup]~f~[uf]~f~u~f~[up]~f~[uf]~f~u~f~[5wua]~f~[uf]~f~u~f~[ua]~f~[uf]~f~u~f~[6eus]~f~[uf]~f~u~f~[us]~f~[uf]~f~u~f~[5wud]~f~[uf]~f~u~f~[ud]~f~[uf]~f~u~f~[4pj]-[fx]--[pj]-[fx]--~[5ak]-[fx]--[ak]-[fx]--~[6sl]-[fx]--[sl]-[fx]--~[5dz]-[fx]--[dz]-[fx]-a-~[4e]-f--e-f--~[5r]-f--r-f--~[6t]-f--t-f--~[5y]-f--y-f-a-[3uf]",
     "author": "Hans Zimmer",
     "date": "22 July 2021",
     "playTime": "02:22",
-    "url": "https://virtualpiano.net/music-sheet/day-one-interstellar/"
+    "url": "https://virtualpiano.net/music-sheet/day-one-interstellar/",
+    "custom": false
+  },
+  {
+    "name": "Despechá (Rosalía)",
+    "tempo": 130,
+    "trans": 0,
+    "tabs": "p[fl]~[fl]p~[fj]~p~[fl]~p~[fj]~o[dk]~[dk]o~[dh]~o~[dk]~o~[dh]~o[dk]~[dk]o~[dh]~o~[dk]~o~[dh]~p[fl]~[fl]p~[fj]~p~[fl]~p~[fj]~p~[fl]~p~[fj]-p~u~o-~[odk]~o~[odh]~o~o~u~o-~[dk]-[odh]~o~[odk]~o~[odh]~p~[fl]~u~[fj]-p~p~[afj]~a~[pfl]-[pfj]~p~[pfl]~p~[ufj]~o~[dk]~o~[dh]~o~o~o~[udh]~o~[odk]~o~[dh]~o~[odk]~o~[odh]~p~[fl]~p~[pfj]~p-a-~[etus]-[etup]-~[tu]~s~[ea]~[wry]-[wry]~o~o~[ro]~o~[wp]~[wrya]~a~[wrya]~a~a~[ra]~a~[wo]o[etup]-[etu]~p~p~[tp]~a~e~[etus]~a~[etus]-~[ts]~d~[ea]~[wry]-[wry]~a~a~[ra]~a~[wp]~[wrya]~a~[wrya]~a~a~[ra]~a~[wo]~[etup]-[etup]~p~p~t~a~e~[etus]-[etup]-~[tu]~s~[ea]~[wry]-[wry]~o~o~[ro]~o~[wp]~[wrya]~a~[wrya]-~[ro]~d~[ws]~[etup]-[etu]~p~p~[tp]~a~e~[etus]~a~[etus]-~[ts]~d~[ea]~[wry]-[wry]~a~a~[ra]~a~[wp]~[wrya]~a~[wrya]~a~a~[ra]~a~[wo]~[9qep]-[9qep]~o~p~q~p~9~upo[0p]etp~upop~p~yoi[9o]wro~yoio~o~yoi[9o]wro~yoio~o~upo[0p]etp~upopppupo[0p]etp~upop~p~yoi[9o]wro~yoio~o~yoi[9o]wro~yoio~o~upo[0p]etp~upoppp~[60ep]as[60es]sss~[8e]~pa[60]s[59wa]-[59wa]~a~a~[7w]~oo[59]o~[59wo]pa[59wa]aaa~[7w]~op[59]p[60ep]as[60es]sss~[8e]~pp[60]p~[60ep]as[60es]sss~[8e]~pa[60]s[59wa]-[59wa]~a~a~[7w]~oo[59]o~[59wo]pa[59wa]aaa~[7w]~op[59]p[60ep]as[60ep]~p~p~[8e]~a~[60]~[60es]-[60ep]-~[8eu]~s~[60a]~[59w]-[59w]~o~o~[7wo]~o~[59p]~[59wa]~a~[59wa]~a~a~[7wa]~a~[59o]o[60ep]-[60e]~p~p~[8ep]~a~[60]~[60es]~a~[60es]-~[8es]~d~[60a]~[59w]-[59w]~a~a~[7wa]~a~[59p]~[59wa]~a~[59wa]~a~a~[7wa]~a~[59o]~[9ep]-[qep]~p~p~[qe]~a~[9e]~[680s]~a~[680s]-~[8u]~s~[6a]~[579]-[579]~a~a~[7a]~p~[5a]~[579a]~a~[579a]-~[7o]~d~[5s]~[6p]-8~[6p]~p~p~a-~[0s]eta~s-~s~d~a~9wr-a~a~a~p~a~[9a]wra~a~p~a~a~a~o~[0p]et~p~o~p--~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[9qe][gz]~[gz][9qe]~[gj]~[9qe]~[gz]~[9qe]~[gj]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[9qe][gz]~[gz][9qe]~[gj]~[9qe]~[gz]~[9qe]~[gj]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[9qe][gz]~[gz][9qe]~[gj]~[9qe]~[gz]~[9qe]~[gj]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[680][fl]~[fl][680]~[fj]~[680]~[fl]~[680]~[fj]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[579][dk]~[dk][579]~[dh]~[579]~[dk]~[579]~[dh]~[9qe][gz]~[gz][9qe]~[gj]~[9qe]~[gz]~[9qe]~[gj]",
+    "author": "Rosalía",
+    "date": "30 December 2024",
+    "playTime": "02:49",
+    "url": "https://virtualpiano.net/music-sheet/despecha-rosalia/",
+    "custom": false
   },
   {
     "name": "Determination (Undertale) (Intermediate)",
@@ -157,7 +249,8 @@
     "author": "Toby Fox",
     "date": "5 October 2020",
     "playTime": "00:48",
-    "url": "https://virtualpiano.net/music-sheet/determination-toby-fox-undertale/"
+    "url": "https://virtualpiano.net/music-sheet/determination-toby-fox-undertale/",
+    "custom": false
   },
   {
     "name": "Do You Want To Build A Snowman (Frozen)",
@@ -167,7 +260,30 @@
     "author": "Kristen Bell",
     "date": "10 September 2020",
     "playTime": "00:49",
-    "url": "https://virtualpiano.net/music-sheet/do-you-want-to-build-a-snowman-easy-kristen-bell/"
+    "url": "https://virtualpiano.net/music-sheet/do-you-want-to-build-a-snowman-easy-kristen-bell/",
+    "custom": false
+  },
+  {
+    "name": "Drunken Sailor",
+    "tempo": 109,
+    "trans": 0,
+    "tabs": "ppoIo-u-\nuppoIppoI\no-u-Iyu-\nppoI[3o]-u-\nuppo[2I]ppoI\n[3o]-u-[2I]y[3u]-\n3-3p[3p]oI[3o]-\n[3u]-[3u]p[3p]o[2I]p\n[2p]oI[3o]-[3u]-[2I]y\n[3u]-3-3-3p\n[3p]oI[3o]-[3u]-[3u]p\n[3p]o[2I]p[2p]oI[3o]-\n[3u]-[2I]y[3u]-3-\n3u[3o]p[wa]-[wa]-\n[es]p[wa]-w-wp\n[wp]oI[3o]-[3u]-[3u]p\n[3p]o[2I]p[2p]oI[3o]-\n[3u]-[2I]y[3u]-3u\n[3o]p[wa]-[wa]-[es]p\n[wa]-w-wp[wp]oI\n[3o]-[3u]-[3u]p[3p]o\n[2I]p[2p]oI[3o]-[3u]-\n[2I]y[3u]-3-3j\n[3j]hG[3h]-[3f]-[3f]j\n[3j]h[2G]j[2j]hG[3h]-\n[3f]-[2G]d[3f]-3-\n3j[3j]hG[3h]-[3f]-\n[3f]j[3j]h[2G]j[2j]hG\n[3h]-[3f]-[2G]d[3f]-\n3f[3h]j[wk]-[wk]-\n[el]j[wk]-w-wj\n[3j]hG[3h]-[3f]-[3f]j\n[3j]h[2G]j[2j]hG[3h]-\n[3f]-[2G]d[3f]-3-\n3f[3h]j[wk]-[wk]-\n[el]j[wk]-w-wj\n[3j]hG[3h]-[3f]-[3f]j\n[3j]h[2G]j[2j]hG[3h]-\n[3f]-[2G]d[3f]-3-\n3p[3p]oI[3o]-[3u]-\n[3u]p[3p]o[2I]p[2p]oI\n[3o]-[3u]-[2I]y[3u]-\n3p[3p]oI[3o]-[3u]-\n[3u]p[3p]o[2I]p[2p]oI\n[3o]-[3u]-[2I]y[3u]",
+    "author": "",
+    "date": "???",
+    "playTime": "??:??",
+    "url": "",
+    "custom": true
+  },
+  {
+    "name": "End Time",
+    "tempo": 180,
+    "trans": 0,
+    "tabs": "[toY]~-~s~[ysoE]~P~o~i~[toYW]~-~s~[ywsE]~P~o~i~[tqYW]~-~[ywiE]~-~[toYW]~-~%~-~%~[81]hZ[z81]lJhg^hZ[z^]lJhg%hZ[z%]lJhg5hZ[z5]lJhg4hZ[z4]lJhg^hZ[z^]lJgJ[@(]hZ[z@(]lJhg5kv[c5]Zzkh1[sh5][hZ8][zg1][lD5][dJ8][sh1][gd8]^[hP4][h^Z][zg^][lD4][d^J][sh^][g^P]%[hO@][hZ%][zg%][lD@][dJ%][sh%][gO%]5[hP2][hZ5][zg5][lD2][dJ5][sh5][og5]4[sh1][lZ4][zh4][lg1][JD4][sh4][gP4]5[hd2][lZ5][zJ5][lh2][gJ5][hd5][gJ5][l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[tsoY]~-~Ps[yoE]~-~io[tYW]~-~Yi[ywE]~-~E~-~[tqW]~-~[yqE9]~-~P~-~[woE(]~-~[ywr]~-~[toY]~-~D~-~[yodE]~-~o~-~[tsYW]~-~[ywPE]~-~o~-~[tqYW]~-~yY[ywiE]~-~y~-~[toY]~-~[@851]~-~sdDhDhlz[lhZ%][lhZ][lhZ][lhZ][lhZ][lhZ][lhZ][lhZ][zg^J][zgJ][zgJ][zgJ][zgJ][zgJ][gdJ][dPH][shD81][shD][shD][shD][shD][shD][lhD][zlh][lhZ][zcJ5][zcJ][zcJ][zcJ][zcJ][zcJ][zcJ][hZJ][zhJ]~[lhZ%][lhZ][lhZ][lhZ][lhZ][lhZ][zlh][lZH][zc^J][zcJ][zcJ][zcJ][zcJ][zcJ][zcB][zVJ][vlZ81][vlZ][vlZ][vlZ][vlZ][vlZ][vlZ][vlZ][zcJ][zcJ][lhZ][zhJ5][lhZ][zhJ][lhZ][zhJ][lhZ][zhJ5][hdJ][hdP5][hdJ][lhZ%][lhZ][lhZ][lhZ][lhZ%][lhZ][lhZ][lhZ][zg^J][zgJ][zgJ][zgJ][zg^J][zcJ][zcJ][zc^B][zc^V][vZJ@(][vZJ][vZJ][zcJ@(][zcJ][zcJ][lhZ92][lhZ][lhZ][zhJ92][zhJ][zhJ][lhD81][lhD][lhD][lhD81][lhD][lh^D][lhD][zhJ][lh^Z][zcJ][vlZ%][vlZ][vlZ]%[vlZ][vlZ%][vlZ][vlZ%][vlZ][zcJ5][zcJ][zcJ]5[zcJ][lZH5][lZH][lZH][zhJ5][zhJ][zhJ][ljg4][ljg][ljg]4[ljg][ljg][ljg4][ljg][ljg][ljg4][ljg][ljg][zkh5][zkh][zkh]5[zkh][zkh][zkh5][zkh][zkh][zkh][zkh5]~%([W%]t[Y%]o[s%]D[h%]D[h%]l[Z%]v[m%]Z^q[^E]y[i^]E[y^]i[^P]i[^P]d[g^]J[z^]c158[98](w[t1]yY8os[D1]h[l8]Z[v1]Z[l8]h[B5]vz5Jh[z5]Jh[J5]hd[h5]dP[o5]yE[w5]9^552%([W%]t[Y%]O[s%]D[H%]D[h%]H[l%]Z[V%]m^q[^E]y[i^]P[d^]g[^J]Pd^gJ[z^]cB^zc[v1]Zm[Z8]mv[m1]vZ[v8]Zl[Z1]lh8gD[s1]oY8tw59w5Ey[E5]yo5Pd[o5]Pdh[d5]hJ[z5]vB5zv%([W%]t[W%]t[Y%]O[O%]s[D%]H[l%]Z[V%]m^q[^E]y[^E]y[i^]P[d^]g[^J]z[c^]B[z^]c1589[1(]w[t8]Y[o1]s[d8]D[h1]l[z8]Z[B5]v[z5]v[z5]J[z5]J[h5]J[h5]d[P5]oyE[w5]9^%1[@%]5%8[(%]w[W%]t[Y%]o[O%]s[D%]h^2[^4]^[^9]q[^E]y[i^]P[d^]g[^J]z[c^]B12[@8]5[@1]589[81]9[8(]w[1(]w[t8]y[tY1][wt][tY8][oY][so1][tY][oY8][so][sD1][oY][so8][sD][hD1][lh][lZ8][vZ][mV%]v[m%]z[mZ%]z[m%]v[mV%]v[Z%]z[lZ%]z[l%]Z[zc^]z[^J]l[z^J]J[g^]J[gd^]P[d^]g[g^J]d[g^]H[hD1]d[D8]h[lh1]h[l8]z[lZ1]z[l8]h[lh1]h[l8]Z[zJ5]J[c5]z[cB5]v[z5]J[hd5]d[P5]o[y5]i[P5]d[h%]l[Z%]v[m%]Z[v%]m[Z%]v[m%]Z[v%]m[Z%]m[z^]m[^B]c[^B]c[z^]l[^J]g[d^]s[^P]d[g^]H[c@]J[V(]Z[B@]Z[V(]Z[v@]Z[J(]h[D@]h[J(]Z[v5]z[n5]v[c5]z[k5]h[g5]d[a5]o[a5]d[g5]h%[hO%][hZ%][zg%][lD%][dJ%][sh%][gO%]^[h^P][h^Z][zg^][l^D][d^J][h^P][og^]1[sh8][hZ1][zg8][lD1][dJ8][sh1][og8]5[hd5][lZ5][zJ5][lh5][gJ5][hd5][gP5]%[hO%][hZ%][zg%][lD%][dJ%][sh%][gO%]^[h^P][h^Z][zg^][l^D][d^J][h^P][d^J][l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]HD[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[l%]H%D[toYW]~-~s~[ysiE]~P~o~i~[toY]~-~o~[wo]EyiYy~Y~[tq]Wt~-~[wt]Ey-~E~-~[t8]([wY]tos~-~1",
+    "author": "Cres",
+    "date": "11 November 2020",
+    "playTime": "02:09",
+    "url": "https://virtualpiano.net/music-sheet/end-time-cres/",
+    "custom": false
   },
   {
     "name": "First Step (Interstellar)",
@@ -177,7 +293,8 @@
     "author": "Hans Zimmer",
     "date": "10 September 2020",
     "playTime": "01:35",
-    "url": "https://virtualpiano.net/music-sheet/first-step-interstellar-hans-zimmer/"
+    "url": "https://virtualpiano.net/music-sheet/first-step-interstellar-hans-zimmer/",
+    "custom": false
   },
   {
     "name": "Five Nights at Freddy’s",
@@ -187,7 +304,8 @@
     "author": "The Living Tombstone",
     "date": "10 September 2020",
     "playTime": "02:10",
-    "url": "https://virtualpiano.net/music-sheet/five-nights-at-freddys-the-living-tombstone/"
+    "url": "https://virtualpiano.net/music-sheet/five-nights-at-freddys-the-living-tombstone/",
+    "custom": false
   },
   {
     "name": "Fur Elise",
@@ -197,7 +315,8 @@
     "author": "Ludwig van Beethoven",
     "date": "18 June 2020",
     "playTime": "05:05",
-    "url": "https://virtualpiano.net/music-sheet/fur-elise-ludwig-van-beethoven/"
+    "url": "https://virtualpiano.net/music-sheet/fur-elise-ludwig-van-beethoven/",
+    "custom": false
   },
   {
     "name": "Glassy Sky (Tokyo Ghoul)",
@@ -207,7 +326,8 @@
     "author": "Amanda Lee",
     "date": "10 September 2020",
     "playTime": "04:59",
-    "url": "https://virtualpiano.net/music-sheet/glassy-sky-tokyo-ghoul/"
+    "url": "https://virtualpiano.net/music-sheet/glassy-sky-tokyo-ghoul/",
+    "custom": false
   },
   {
     "name": "Gloria, In Excelsis Deo",
@@ -217,7 +337,8 @@
     "author": "Johann Sebastian Bach",
     "date": "23 November 2024",
     "playTime": "00:40",
-    "url": "https://virtualpiano.net/music-sheet/gloria-in-excelsis-deo/"
+    "url": "https://virtualpiano.net/music-sheet/gloria-in-excelsis-deo/",
+    "custom": false
   },
   {
     "name": "Goner",
@@ -227,7 +348,8 @@
     "author": "Twenty One Pilots",
     "date": "17 February 2021",
     "playTime": "04:01",
-    "url": "https://virtualpiano.net/music-sheet/goner-twenty-one-pilots/"
+    "url": "https://virtualpiano.net/music-sheet/goner-twenty-one-pilots/",
+    "custom": false
   },
   {
     "name": "Gravity Falls Opening Theme",
@@ -237,7 +359,8 @@
     "author": "Brad Breeck",
     "date": "21 August 2020",
     "playTime": "00:50",
-    "url": "https://virtualpiano.net/music-sheet/gravity-falls-opening-theme/"
+    "url": "https://virtualpiano.net/music-sheet/gravity-falls-opening-theme/",
+    "custom": false
   },
   {
     "name": "Gymnopédie No. 1",
@@ -247,7 +370,19 @@
     "author": "Erik Satie",
     "date": "20 November 2020",
     "playTime": "04:22",
-    "url": "https://virtualpiano.net/music-sheet/gymnopedie-no-1-erik-satie/"
+    "url": "https://virtualpiano.net/music-sheet/gymnopedie-no-1-erik-satie/",
+    "custom": false
+  },
+  {
+    "name": "Happy (Pharrell Williams)",
+    "tempo": 138,
+    "trans": 5,
+    "tabs": "e-t-y-t~u-~y-t-e~t-~e-t-y-t~u--~0~0-w-~e~e~e~w~e-~e-~e-e-e~w~e-e-e-w~e--~0~0-w-~e~e~e~w~e-~r-~w-0-w-~e~w~e-e-w~e--~0~0-w-~e~e~u~y~y~t~e~t-~e-e-w-~e~w~e-e-w~e--~0~0-w-~e~e~e~w~e-~r-~w-0-w-~e-e~w~e-w~e",
+    "author": "Pharrell Williams",
+    "date": "29 August 2024",
+    "playTime": "00:33",
+    "url": "https://virtualpiano.net/music-sheet/happy-pharrell-williams/",
+    "custom": false
   },
   {
     "name": "Happy Birthday To You",
@@ -257,7 +392,8 @@
     "author": "Various",
     "date": "3 November 2020",
     "playTime": "00:20",
-    "url": "https://virtualpiano.net/music-sheet/happy-birthday-to-you/"
+    "url": "https://virtualpiano.net/music-sheet/happy-birthday-to-you/",
+    "custom": false
   },
   {
     "name": "Heavenly (Cigarettes After Sex)",
@@ -267,7 +403,8 @@
     "author": "Cigarettes After Sex",
     "date": "13 July 2023",
     "playTime": "03:55",
-    "url": "https://virtualpiano.net/music-sheet/heavenly-cigarettes-after-sex/"
+    "url": "https://virtualpiano.net/music-sheet/heavenly-cigarettes-after-sex/",
+    "custom": false
   },
   {
     "name": "How I Made My Millions",
@@ -277,7 +414,8 @@
     "author": "Radiohead",
     "date": "10 September 2020",
     "playTime": "02:14",
-    "url": "https://virtualpiano.net/music-sheet/how-i-made-my-millions-radiohead/"
+    "url": "https://virtualpiano.net/music-sheet/how-i-made-my-millions-radiohead/",
+    "custom": false
   },
   {
     "name": "Humnava Mere (Jubin Nautiyal)",
@@ -287,7 +425,19 @@
     "author": "Various",
     "date": "25 July 2025",
     "playTime": "5:11",
-    "url": "https://virtualpiano.net/music-sheet/humnava-mere-jubin-nautiyal/"
+    "url": "https://virtualpiano.net/music-sheet/humnava-mere-jubin-nautiyal/",
+    "custom": false
+  },
+  {
+    "name": "Idea 10 (Gibran Alcocer)",
+    "tempo": 170,
+    "trans": -2,
+    "tabs": "pps[9d]s[yid]~[yi]~e~[yi]p[yip]a[6s]a[tus]~[tu]~e~[tu]p[tup]s[5a]~[ru]~[ru]p[wp]~[rup]~[ru]o[4p]~[et]~[et]~q~[et]p[etp]s[9d]s[yid]~[yi]~ef[yid]s[yip]a[6s]a[tus]~[tu]~e~[tus]s[tus]d[5a]~[ru]~[ru]p[wp]~[rup]~[ru]o[4p]~[et]~[et]~[qa]~[ey]~[ey]~[qs]~[eu]~[eu]~[eu]-~[9z]j[yig]z[yij]g[ez]j[yig]z[yil]k[6l]k[tuf]l[tuk]f[el]k[tuf]l[tuk]j[5k]h[ruf]k[ruh]f[wk]h[ruf]k[ruj]h[4j]~[et]~[et]~q~[etf]j[etk]l[9z]j[yig]z[yij]g[ez]j[yig]x[yil]k[6l]k[tuf]l[tuk]f[el]k[tuf]l[tuk]j[5k]h[ruf]k[ruh]f[wk]h[ruf]h[ruk]x[qj]~[et]~[et]~[qk]~[ey]~[ey]~[ql]~[eu]~[eu]~[eu]-~[9g]~[yi]~[yi]~efg[yif]d[yis]d[6f]~[tu]~[tu]~e~[tu]~[tus]~[5a]~[ru]~[ruf]~w~[ru]~[ru]~[4p]~[et]~[et]~qp[eta]s[etd]f[9g]~[yi]~[yi]~efg[yif]d[yis]d[6f]~[tu]~[tu]~e~[tu]~[tuf]~[5h]~[ru]~[ruk]~w~[rul]~[ru]~[qj]~[et]~[et]~[qk]~[ey]~[ey]~[ql]~[eu]~[eu]~[eu]-~[9z]j[yig]z[yij]g[ez]j[yig]z[yil]k[6l]k[tuf]l[tuk]f[el]k[tuf]l[tuk]j[5k]h[ruf]k[ruh]f[wk]h[ruf]k[ruj]h[4j]~[et]~[et]~qkl[etk]j[etk]l[9z]j[yig]z[yij]g[ez]j[yig]x[yil]k[6l]k[tuf]l[tuk]f[el]k[tuf]l[tuk]j[5k]h[ruf]k[ruh]f[wk]h[ruf]h[ruk]x[qj]~[et]~[et]~[qk]~[ey]~[ey]~[ql]~[eu]~[eu]~[eu]-~[pj][sl][9dz]~[yi]~[yi]~e[fx][yidz][sl][yiak][pj][5ak]~[ru]~[ru]~w~[ruak][ak][ruak][ak][6sl]~[tu]~[tu]~[8ak]~[ru]~[ru]~[qpj]~[et]~[et]~q~[et][pj][etpj][sl][9dz]~[yi]~[yi]~e[fx][yidz][sl][yiak][pj][5ak]~[ru]~[ru]~w~[ruak][ak][ruak][ak][6sl]~[tu]~[tu]~[8dz]~[ru]~[rufx]~[qpj]~[et]~[et]~[qak]~[ey]~[ey]~[qsl]~[eu]~[eu]~[eu]-~[9z]j[yig]z[yij]g[ez]j[yig]zx[yiz]l[6l]k[tuf]l[tuk]f[el]k[tuf]l[tuk]j[5k]h[ruf]k[ruh]f[wk]h[ruf]jk[ruj]h[4j]~[et]~[et]~qkl[etk]j[etk]l[9z]j[yig]z[yij]g[ez]j[yig]zx[yiz]l[6l]k[tuf]l[tuk]f[el]k[tuf]l[tuk]j[5k]h[ruf]k[ruh]f[wk]h[ruf]h[ruk]x[4j]~[et]~[et]~4~[et]~[et]~[eyiz]jgzjgzjgzlk[eupl]kflkflkflkj[wrok]hfkhfkhfkjh[qtij]-~k-~l",
+    "author": "Gibran Alcocer",
+    "date": "1 December 2023",
+    "playTime": "02:01",
+    "url": "https://virtualpiano.net/music-sheet/idea-10-gibran-alcocer/",
+    "custom": false
   },
   {
     "name": "Inside Out (Main Theme)",
@@ -297,7 +447,8 @@
     "author": "Michael Giacchino",
     "date": "7 February 2024",
     "playTime": "00:27",
-    "url": "https://virtualpiano.net/music-sheet/inside-out-main-theme/"
+    "url": "https://virtualpiano.net/music-sheet/inside-out-main-theme/",
+    "custom": false
   },
   {
     "name": "It Ends Tonight",
@@ -307,7 +458,8 @@
     "author": "The All-American Rejects",
     "date": "10 September 2020",
     "playTime": "03:51",
-    "url": "https://virtualpiano.net/music-sheet/it-ends-tonight-the-all-american-rejects/"
+    "url": "https://virtualpiano.net/music-sheet/it-ends-tonight-the-all-american-rejects/",
+    "custom": false
   },
   {
     "name": "It’s Raining Somewhere Else (Undertale)",
@@ -317,7 +469,30 @@
     "author": "Toby Fox",
     "date": "29 July 2024",
     "playTime": "02:37",
-    "url": "https://virtualpiano.net/music-sheet/its-raining-somewhere-else-undertale/"
+    "url": "https://virtualpiano.net/music-sheet/its-raining-somewhere-else-undertale/",
+    "custom": false
+  },
+  {
+    "name": "Jane Maryam (Evgeny Grinko)",
+    "tempo": 180,
+    "trans": 3,
+    "tabs": "e~u~[ps]f0~[ruo]-~[eup]---~p~a~s~d~f-~[ef]~u~[pf]~[uj]~[pf]~u~[ef]~uj[pf]~[uj]~[pf]~u~[ef]~ug[pd]~[uf]~[ps]~u~[9d]~ef[ys]~[ed]~[ya]~e~[6s]~0d[ea]~[0s]~[ep]~0~[4s]~8a[qp]~[5a]~[9o]~[wa]~[6p]~0~e~[0sl]~e~0~[4sfl]~8[ak][qpj]~[5ak]~[9oh]~[wak]~[6pj]~0~e~0~e~0~6~0~e~0~e~0~[6p]~0~[es]~[0f]~[eh]~[0g]~[6f]~0~e~0~e~0~[6p]~0~[es]~[0f]~[eh]~[0g]~[6f]~0~e~[0j]~e~0~[4sfl]~8[ak][qpj]~[5ak]~[9oh]~[wak]~[6pj]~0~e~[0sfl]~e~0~[4sfl]~8[ak][qpj]~[5ak]~[9oh]~[wak]~[6pj]~0~e~0~e~0~6~0~e~0~e~0~[ej]~u~[ph]~[ug]~[pf]~u~[ej]~uh[pj]~[ug]~[pf]~u~[ef]~ug[pd]~[uf]~[ps]~u~[9d]~ef[ys]~[ed]~[ya]~e~[6s]~0d[ea]~[0s]~[ep]~0~[4s]~8a[qp]~[5a]~[9o]~[wa]~[6p]~0~e~[0sf]~e~0~[4sf]~8[ad][qps]~[5ad]~[9oa]~[wad]~[6ps]~0~e~0~e~0~6~0~e~0~e~0~[6j]~0~[eh]~[tg]~[uf]~p~[ej]~rh[tj]~[ug]~[pf]~u~[ef]~rg[td]~[uf]~[ps]~u~[9d]~ef[ys]~[ed]~[ya]~e~[6s]~0d[ea]~[0s]~[ep]~0~[4s]~8a[qp]~[5a]~[9o]~[wa]~[6p]~0~e~[0sfl]~e~0~[4sfjl]~8[afk][qpfj]~[5afk]~[9oh]~[wak]~[6p]sfj0~e~r~t~u~p~a~s~f~j~k~l-~x-~jlxb",
+    "author": "Evgeny Grinko",
+    "date": "12 July 2023",
+    "playTime": "01:27",
+    "url": "https://virtualpiano.net/music-sheet/jane-maryam-evgeny-grinko/",
+    "custom": false
+  },
+  {
+    "name": "Je Te Laisserai Des Mots",
+    "tempo": 120,
+    "trans": 2,
+    "tabs": "[4p]-[8e]-[8e]~o~[8i]-[qe]-[qe]~y~[4t]-[8e]-[8e]-~[8p]-[qed]-[qes]~a~[4s]-[8e]-[8e]-~8-[qe]-[qe]-~4-[8e]-[8e]-~[8p]-[qed]-[qea]-~[6s]-[0t]-[0ta]~s~[5a]-[9r]-[9r]~p~[4a]~p~[8e]-[8e]-~[4p]-[8ed]-5~p~[6s]-[0t]-[0ta]~s~[5a]-[9r]-[9r]~p~[4a]~p~[8e]-[8e]-~[4p]-[8es]-[5d]-~[6f]-[0t]-[0td]~s~[5d]~f~[9rd]-[9rs]-~[4d]~s~[8e]-[8e]-~4-[8es]-[8e]~d~[1s]-[50]-[50]-~5-[0w]-[0w]-~3-[7W]-[7W]-~4-[8e]-[8e]-~[6eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[5wo]~[ru]~[70wo]~[tu]~[70wo]~[tu]~[4eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[4wo]~[ru]~[80wo]~[tu]~[80wo]~[tu]~[6eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[5wo]~[ru]~[70wo]~[tu]~[70wo]~[tu]~[4eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[4wo]~[ru]~[80wo]~[tu]~[80wo]~[tu]~[1wo]~[tu]~[580wo]~[tu]~[580wo]~[tu]~[1wo]~[tu]~[580wo]~[tu]~[580wo]~[tu]~[3WO]~[tu]~[70%WO]~[tu]~[70%WO]~[tu]~[4wp]~[ti]~[68qwp]~[ti]~[68qwp]~[ti]~6-[etu]--~5-[wry]--~4-[qet]--~4-[qet]-5-~[180w]---~[W30r]---~i~o~[4p]-[8e]-[8e]~o~[8i]-[qe]-[qe]~y~[4t]-[8e]-[8e]-~[8p]-[qed]-[qes]~a~[4s]-[8e]-[8e]-~8-[qe]-[qe]-~4-[8e]-[8e]-~[8p]-[qed]-[qes]~a~[6s]-[0t]-[0ta]~s~[5a]-[9r]-[9r]~p~[4a]~p~[8e]-[8e]-~[4p]-[8ed]-5~d~[6d]-[0t]-[0td]~s~[5d]-[9r]-[9r]~d~4-[8e]-[8e]-~[4p]-[8es]-[5d]-~[6f]-[0t]-[0t]~d~5~d~[9r]~d~[9r]~s~[4d]-[8e]-[8e]-~[4p]~s~[8e]~d~[8e]~s~[6f]-[0t]-[0t]~d~5~d~[9r]~d~[9r]~s~[4d]-[8e]-[8e]-~p~d~f~d-s~1-[50]-[50]-~5-[0ws]-[0ws]~a~3-[7W]-[W7s]-~4-[8ed]~f~[8ed]-~1~s~[50d]~s~[50]-~5-[0ws]-[0ws]~d~[3d]-[7W]~d~[7W]-~[4d]-[8ed]~f~[8ed]-~1~s~[50d]~s~[50]-~5-[0ws]-[0ws]~a~[3d]-[7W]~d~[7W]-~[4d]-[8ed]~f~[8ed]-~1~s~[50d]~s~[50]-~5-[0ws]-[0ws]~a~3-[7W]-[7W]-~[4s]-[8e]-[8e]-~[6eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[5wo]~[ru]~[70wo]~[tu]~[70wo]~[tu]~[4eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[4wo]~[ru]~[80wo]~[tu]~[80wo]~[tu]~[6eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[5wo]~[ru]~[70wo]~[tu]~[70wo]~[tu]~[4eo]~[tu]~[80eo]~[tu]~[80eo]~[tu]~[4wo]~[ru]~[80wo]~[tu]~[80wo]~[tu]~[180w]---~[W30r]",
+    "author": "Patrick Watson",
+    "date": "9 July 2024",
+    "playTime": "02:21",
+    "url": "https://virtualpiano.net/music-sheet/je-te-laisserai-des-mots/",
+    "custom": false
   },
   {
     "name": "Jurassic Park Theme",
@@ -327,7 +502,8 @@
     "author": "John Williams",
     "date": "15 March 2023",
     "playTime": "01:18",
-    "url": "https://virtualpiano.net/music-sheet/jurassic-park-theme/"
+    "url": "https://virtualpiano.net/music-sheet/jurassic-park-theme/",
+    "custom": false
   },
   {
     "name": "Lavender’s Blue (Cinderella)",
@@ -337,7 +513,30 @@
     "author": "",
     "date": "10 September 2023",
     "playTime": "02:10",
-    "url": "https://virtualpiano.net/music-sheet/lavenders-blue-cinderella/"
+    "url": "https://virtualpiano.net/music-sheet/lavenders-blue-cinderella/",
+    "custom": false
+  },
+  {
+    "name": "Madrid City (Ana Mena)",
+    "tempo": 120,
+    "trans": 4,
+    "tabs": "df[yipg]~dfg~dfg-~j~[etuf]~j~f~j~f-~sd[tuof]~sdf~sdf-~h~[wryd]~h~d~h~d~d~d~f~[9g]~[qg]~[eg]~[yg]-[ef]~[qd]~[9f]~6~[8f]~[0f]~[ef]-[0d]~[8s]~[6f]~8~[0f]~[wf]~[tf]-[ws]~[0s]~[8s]~5~[7a]~9~w-[9d]~[7d]~[5h]~[9g]~[qg]~[eg]~[yg]-[ef]~[qd]~[9f]~6~[8f]~[0f]~[ef]-[0d]~[8s]~[6f]~8~[0f]~[wf]~[tf]-[wg]~[0f]~[8f]~5~[7d]~9~w-[9d]~[7s]~[5a]~[9qep]~[9qes]~[9qes]~s~d~s~a~[680p]~[680s]~[680s]~s~d~s~d~[80wf]~[80ws]~[80ws]-s~g~f~[579wf]~d-~d~s~a~[9qep]~[9qes]~[9qes]-d~s~a~[680p]~[680s]~[680s]-d~s~d~[80wf]~[80ws]~[80ws]-s~g~f~[579wf]~d~f~g~f~d~f~[9qeg]-[9qeg]-[9qej]-[9qeg]~f~[680]~f~[680]~f~[680f]~d~[680s]~d~[80wf]-[80wf]-[80wh]-[80wg]~f~[579]~d~[579]~d~[579f]~d~[579s]~a~[9qep]~g~[9qeg]~g~[9qe]~p~[9qep]~o~[680o]~f~[680f]~f~[680]~d~[680s]~d~[80wf]-[80wf]-[80wh]-[80wg]~f~[579]~d~[579]~f~[579g]~f~[579d]~f~[9qeg]--~j~g~f~[680]-~f~f~d~s~d~[80wf]--~h~f~d~[79w]-~d~f~d~s~a~[9qep]~g~g~g~[9qe]~h~g~g~[680g]~f~d~f~[680]~d~s~d~[80wf]-f-[80wh]-g~f~[579w]~d--~dfg~dfg~dfg-~j~[6f]~8~0~6~8~[0s]d[8f]~sdf~[ws]d[8f]~0~[wh]~[5d]~7~9~5-~gfdf[9g]~dfg~[ed]f[9g]~q~[ej]~[6f]~8~0~6~8~[0s]d[8f]~sdf~[ws]d[8f]~0~[wh]~[5d]~7~9~5~7~d[9s]a[9qep]~s~s~[9qes]~d~d~dsa[680p]~s~s~[680s]~d~d~s~d[8f]~f~f~[wf]~[8g]~f~0f[wd]s[5d]~d~d~[9d]~[5f]~dd7~[9f]~[9g]~q~[ed]~[9d]~q~[eg]~[6f]~f~f~[0f]~[6f]~d~[8s]~[0d]~[8f]~0~[ws]~[8s]~0~[wf]~[5d]~d~[7d]~[9d]~[5h]~g~[7f]~[9d]~[9qeg]-[9qe]~h~[9qeg]-[9qe]~dg[680f]-[680]~g~[680f]ds~[680s]~d~[80wf]~f~[80wf]~f~[80wg]~f~[80ws]~f~[579d]-[579]~f~[579g]~f~[579d]~f~[9qeg]-g-j-g~f~[680]~f-f~f~d~s~d~[80wf]-f-h-g~f~[579]~d-d~d~d~s~a~[9qep]~g~g~g-p~p~o~[680o]~f~f~f-d~s~d~[80wf]-f-h-g~f~[579]~d-f~g~f~d~f~[9qeg]-~[9qe]-j~g~f~[680]-~[680f]~f~d~s~d~[80wf]-~[80w]-h~f~d~[579]-~[579d]~f~d~s~a~[9qep]~g~g~[9qeg]-h~g~g~[680]~f~d~[680f]-d~s~d~[80wf]-f~[80w]~h-g~f~[579]~d-[579]--~dfg~dfg~dfg-~j~[6f]~8~0~6~8~[0s]d[8f]~sdf~[ws]d[8f]~0~[wh]~[5d]~7~9~5-~gfdf[9g]~dfg~[ed]f[9g]~q~[ej]~[6f]~8~0~6~8~[0s]d[8f]~sdf~[ws]d[8f]~0~[wh]~[5d]~7~[9f]~[5g]~f~[7d]~[9f]~[9g]-g~e~[9j]-[qg]~[ef]~6~f-[0f]~[6f]~d~[8s]~[0d]~[8f]-f~w~[8h]-[0g]~[wf]~5~d-[9d]~[5d]~d~[7s]~[9a]~[9p]~g~g~[eg]~9~p~[qp]~[eo]~[6o]~f~f~[0f]~6~d~[8s]~[0d]~[8f]-f~w~[8h]-[0g]~[wf]~5~d-9~5~7~[9d]f[9qeg]~dfg~dfg-~j~[680f]--~sd[80wf]~sdf~sdf-~h~d",
+    "author": "Ana Mena",
+    "date": "10 January 2025",
+    "playTime": "03:02",
+    "url": "https://virtualpiano.net/music-sheet/madrid-city-ana-mena/",
+    "custom": false
+  },
+  {
+    "name": "Mii Channel Theme (Easy)",
+    "tempo": 114,
+    "trans": -3,
+    "tabs": "p~sf~s~piii-~uipsf~s~ph-Gg-~a~fp~f~a~f~Pp~o~ooo-~ooo-~I~i~u~sf~s~piii~hhh-psf~s~ph-~g-~dPiu~dPuspYy~Oiyooo-~Sdfgjl---~t~T~y-Ty-~tTyp~uy-Ty---~y~Y~u-Yu-~uYua~Iu-Iy---~ooo~p~sf~s~piii-~uipsf~s~ph-Gg-~a~fp~f~a~f~Pp~o~ooo-~ooo-~I~i~u~sf~s~piii~hhh-psf~s~ph-~g-~dPiu~dPuspYy~Oiyooo-~Sdfgjl---~t~T~y-Ty-~tTyp~uy-Ty---~y~Y~u-Yu-~uYua~Iu-Iy---~ooo~p~sf~s~p",
+    "author": "Kazumi Totaka",
+    "date": "21 January 2023",
+    "playTime": "01:47",
+    "url": "https://virtualpiano.net/music-sheet/mii-channel-theme-easy/",
+    "custom": false
   },
   {
     "name": "Minecraft (Title)",
@@ -347,7 +546,30 @@
     "author": "C418",
     "date": "2 August 2024",
     "playTime": "02:05",
-    "url": "https://virtualpiano.net/music-sheet/minecraft-title/"
+    "url": "https://virtualpiano.net/music-sheet/minecraft-title/",
+    "custom": false
+  },
+  {
+    "name": "Miraculous Ladybug",
+    "tempo": 120,
+    "trans": -1,
+    "tabs": "[0etp]-~[0et]-[0et]-~[qeti]-~[qet]-[qet]-~[qey]-~[qe]-[qe]-~[9wro]-~[9wr]-[9wr]-~[0etp]-~[0et]-[0et]-~[qeti]-~[qet]-[qet]-~[qey]-~[qe]-[qe]-~[9wro]-~[9wr]-[9wr]-~[60e]-[60e]~y~y~t~t-~[48q]-[48q]~y~y~t~t-~[269]-[269]~y~y~t~t-~[59wr]-[59w]~r-t~t-~[60e]-[60e]~y~y~t~t-~[48q]-[48q]~y~y~t~u-~[269]-[269]~y~y~t~t-~[59wr]-[59w]~r-t~t-~[60eu]-[60ep]-o--~[48qu]~u[48q]~i~u~y~t-~[269u]-[269p]-o--~[59wu]~u[59w]~i~u~y~t-~[60eu]-[60ep]-o--~[48qu]~u[48q]~i~u~y~t~t~[269i]~u[269]~y~t~u~t~[59wy]-[59w]-[%(W]~a~[%(W]~p~[60e]-[60e]-[60es]~a~[60eo]~p~[48q]-[48q]-[48qs]~a~[48qo]~p~[269]~p~[269]~p~[269]~f~[269]~d~[59w]~f~[59w]-[%(W]~a~[%(W]~p~[60e]~s~[60e]~a~[60e]~o~[60e]~p~[48q]-[48q]-[48qs]~a~[48qo]~p~[269]~p~[269]~p~[269]~f~[269]~d~[59w]~f~[59w]-[%(W]-[%(W]-~[60e]-[60e]~y~y~t~t-~[48q]-[48q]~y~y~t~t-~[269]-[269]~y~y~t~t-~[59wr]-[59w]~r-t~t-~[60e]-[60e]~y~y~t~t-~[48q]-[48q]~y~y~t~u-~[269]-[269]~y~y~t~t-~[59wr]-[59w]~r-t~t-~[60eu]-[60ep]-o--~[48qu]~u[48q]~i~u~y~t-~[269u]-[269p]-o--~[59wu]~u[59w]~i~u~y~t-~[60eu]-[60ep]-o--~[48qu]~u[48q]~i~u~y~t~t~[269i]~u[269]~y~t~u~t~[59wy]-[59w]-[%(W]~a~[%(W]~p~[60e]-[60e]-[60es]~a~[60eo]~p~[48q]-[48q]-[48qs]~a~[48qo]~p~[269]~p~[269]~p~[269]~f~[269]~d~[59w]~f~[59w]-[%(W]~a~[%(W]~p~[60e]~s~[60e]~a~[60e]~o~[60e]~p~[48q]-[48q]-[48qs]~a~[48qo]~p~[269]~p~[269]~p~[269]~f~[269]~d~[59w]~f~[59w]-[%(W]-[%(W]",
+    "author": "Noam Kaniel",
+    "date": "30 June 2024",
+    "playTime": "01:51",
+    "url": "https://virtualpiano.net/music-sheet/miraculous-ladybug/",
+    "custom": false
+  },
+  {
+    "name": "Mockingbird (Eminem)",
+    "tempo": 85,
+    "trans": 0,
+    "tabs": "[6eu]~s~s~[4qi]~s~a~a-~[5wyoa]--[6etup]-~-~[6eup]~0~e~[4qy]-~-~[5wry]--[6etu]-~-~[6eu]~s~s~[4qs]ds~a~a-~[5wyoa]--[6etup]-~-~[6eup]~0~[eu]~[4qy]--t-~[5wry]-~tr[60e]--ppp~[6u]s[0s]d[es]~4sa[8u]s[qs]d[es]~[qs]aa~5sa[9a]a[wa]a[6a]a[0a]a[ea]s[tp]~[ep]p~[6a]s[0p]~[ep]p[4a]s[8p]~[qp]p[ea]s[qp]~[5a]a[9a]a[wa]s[6p]~[0a]a[ea]~a[ta]s[ep]~[6a]s[0p]~[ea]s[4d]~[8a]a[qa]a[ea]s[qp]~[5a]s[9p]~[wa]s[6p]~[0a]a[es]s[ta]s[ep]~[6a]s[0p]p[ea]a[4p]p[8a]a[qp]p[ea]p[qa]p~[5d]a[9a]a[ws]p[6p]a[0s]p[ep]p[ta]s[ep]p~[6s]~[0a]a[ea]s[4p]~[8a]s[qa]~[ea]s[qp]~[5a]s[9p]~[wa]s[6p]~[0s]a[ea]a[ta]s[ep]~[6a]s[0p]p[ea]s[4p]~[8d]s[qa]a[ea]s[qp]~[5a]a[9a]a[wa]s[6d]~[0s]s[es]s[ts]d[ef]~s~[6f]d[0a]a[ea]s[4p]p[8a]a[qa]s[ep]p[qa]a~[5a]a[9a]s[wp]p[6p]a[0a]a[ea]s[tp]~[ea]s~[6p]~[0a]s[ep]p[4a]a[8a]a[qa]s[ep]~[qa]a~[5a]d[9p]p[wp]p[6a]a[0a]a[ea]s[tp]p[ef]d~[6a]a[0a]s[ep]p[4p]~[8a]a[qa]s[ep]p[qp]p~[5a]a[9a]s[wp]p[6p]a[0a]a[ea]s[tp]p[ep]a~[6a]a[0a]s[ep]~[4p]p[8a]a[qa]a[ea]s[qa]s~[5p]p[9p]p[wa]a[6a]s[0p]p[ep]p[ta]a[ea]s~[6p]~[0p]p[ea]a[4a]s[8p]p[qp]~p[ea]a[qa]a~[5a]a[9a]s[wp]p[6p]p[0a]a[ea]s[tp]pe~6p[0a]s[ep]p[4a]a[8a]a[qa]s[ep]~[qp]p~[5a]a[9a]s[wp]p[6p]p[0a]a[ea]s[tp]~[eu]~[6es]~[0s]s[es]~[4qd]~[8s]~[qa]~[ea]~[qu]u~[5wa]~[9a]a[ws]a[6ep]~0~[eu]u[tu]u[eu]u~[6ep]~[0u]t[ey]~[4qu]t[8y]~[qu]~[eu]u[qu]t~[5wy]~[9u]~[wt]r[6e]~0~[eu]u[tu]u[eu]~[6eu]~[0s]~[es]~[4qs]d[8s]~[qa]~[ea]~qu~[5wa]~[9a]a[ws]a[6ep]~0~[eu]u[tu]u[eu]u~[6ep]~[0u]~[eu]t[4qy]~[8u]~[qu]t[ey]~[qu]~[5wy]~[9u]y[wt]r[6e]~0pep[ts]pe~[6u]a[0a]a[es]p[4p]p[8a]a[qa]s[ep]p[qp]p~[5a]a[9s]p[wp]p[6p]a[0a]a[ea]s[tp]p[ep]p~[6a]a[0a]s[ep]p4p[8a]a[qa]s[ep]p[qp]a~[5a]a[9a]a[wp]p[6p]p[0a]a[ea]s[tp]p[ep]a~[6a]a[0a]s[ed]~4a[8s]a[qa]s[ed]~a[qa]a~[5a]a[9a]a[ws]p[6p]p[0p]p[ep]a[ts]~p[ep]p~[6a]~0~[ea]a[4s]p[8p]s[qp]p[ep]a[qa]s~[5a]a[9s]p[wa]s6p[0s]a[ep]a[ts]~[ep]p~[6s]~0p[ep]p[4a]a[8a]a[qa]s[ep]~[qp]p~[5a]a[9a]s[wp]p[6p]p[0a]a[ea]s[tp]p[ep]p~[6a]a[0a]s[ep]p4~[8s]p[qp]p[ep]p[qa]p~[5s]p[9p]p[wa]s[6p]p[0a]a[ea]s[tp]~epp~[6a]a[0a]s[ep]~[4p]p[8a]a[qa]a[es]pq~[5s]p[9p]p[ws]a[6p]a[0s]~ep[tp]p[ep]p~[6p]p[0s]a[ep]a[4s]~[8s]a[qp]a[es]~[qp]p~[5a]a[9a]pp[wa]a[6a]p[0a]a[ea]p[ts]~[ep]p~[6a]a[0a]s[ep]p[4p]p[8a]a[qa]a[es]p[qp]p~[5a]s[9p]~[wp]p[6a]a[0a]a[ea]p[ts]pep~[6a]a[0a]s[ep]~[4p]p[8a]a[qa]s[ep]p[qp]p~[5s]a[9p]a[ws]a[6p]a[0s]~[ep]p[ts]a[ep]a~[6s]p0~s[ep]a[4s]p[8p]p[qa]a[ea]s[qp]p~[5a]a[9a]a[wa]s[6p]~[0a]a[ea]a[ta]s[ep]p~[6p]p[0s]a[ep]a[4s]p[8p]p[qa]a[ea]s[qp]p~[5p]a[9s]a[wp]a[6s]a[0p]a[es]a[tp]a[ep]p~[6a]a[0a]s[ep]p[4p]p[8a]a[qa]s[ep]~q~[5p]p[9s]s[wp]p[6a]s[0p]~ep[ta]s[ep]p~[6p]s[0a]p[ea]s[4a]p[8a]a[qa]s[ep]~p[qp]p~[5a]a[9a]s[wp]p[6p]p[0a]a[ea]s[tp]~e~6~[0s]~[ep]p[4a]s[8p]pq~[ep]a[qa]s~[5p]~[9s]ap[wp]p[6a]s[0p]~e~[ta]aes~[6p]~0pp[ep]a[4s]p[8a]~[qp]p[ep]a[qs]p~[5a]s9~[ws]p[6p]p[0a]~a[ep]s[tp]~[eu]~[6es]~[0s]s[es]~[4qd]~[8s]~[qa]~[ea]~[qu]u~[5wa]~[9a]a[ws]a[6ep]~0~[eu]u[tu]u[eu]u~[6ep]~[0u]t[ey]~[4qu]t[8y]~[qu]~[eu]u[qu]t~[5wy]~[9u]~[wt]r[6e]~0~[eu]u[tu]u[eu]~[6eu]~[0s]~[es]~[4qs]d[8s]~[qa]~[ea]~qu~[5wa]~[9a]a[ws]a[6ep]~0~[eu]u[tu]u[eu]u~[6ep]~[0u]~[eu]t[4qy]~[8u]~[qu]t[ey]~[qu]~[5wy]~[9u]y[wt]r[6e]~0~[ef]f[tf]~[ek]l~[6esf]l[tl]l[ul]~[4ql]z[el]~[tk]~[ik]~t~[5wdhk]~[rk]k[yl]k[6esfj]~t~[uf]f[pf]f[uf]f~[6esfj]~[tf]f[uf]s[4qd]~[ef]f[tf]s[id]~[tf]~[5wad]~[rf]f[ys]a[6eup]~t~uf[pf]f[uf]f~[6esf]~[tfjl]~[ufjl]~[4ql]z[el]~[tk]~[ik]~[tf]f~[5wdhk]~[rdhk]~[yl]k[6esfj]~t~[uf]f[pf]~[uf]f~[6esfj]~[tf]f[uf]s[4qd]~[ef]~[tf]f[if]f[tf]f~[5wad]~[rf]f[ys]a[6eup]",
+    "author": "Eminem",
+    "date": "16 July 2024",
+    "playTime": "04:06",
+    "url": "https://virtualpiano.net/music-sheet/mockingbird-eminem/",
+    "custom": false
   },
   {
     "name": "Nights In White Satin (The Moody Blues)",
@@ -357,7 +579,8 @@
     "author": "The Moody Blues",
     "date": "8 August 2025",
     "playTime": "1:46",
-    "url": "https://virtualpiano.net/music-sheet/nights-in-white-satin-the-moody-blues-the-moody-blues/"
+    "url": "https://virtualpiano.net/music-sheet/nights-in-white-satin-the-moody-blues-the-moody-blues/",
+    "custom": false
   },
   {
     "name": "Nuvole Bianche (Alternative)",
@@ -367,7 +590,41 @@
     "author": "Ludovico Einaudi",
     "date": "16 September 2020",
     "playTime": "05:06",
-    "url": "https://virtualpiano.net/music-sheet/nuvole-bianche-alternative/"
+    "url": "https://virtualpiano.net/music-sheet/nuvole-bianche-alternative/",
+    "custom": false
+  },
+  {
+    "name": "O Holy Night (Adolphe Adam)",
+    "tempo": 120,
+    "trans": 0,
+    "tabs": "[8u]~0~w~[8u]~0~[wu]~[8o]~0~w~8~0~[wo]~[8p]~q~[ep]~[8i]~q~[ep]~[8s]~0~w~8~0~w~[8o]~0~[wo]~[8u]~0~[wy]~[8t]~0~w~[8u]~0~[wi]~[7o]~9~w~[7i]~9~[wy]~[8t]~0~w~8~0~w~8~0~w~8~0~w~[8u]~0~w~[8u]~0~[wu]~[8o]~0~w~8~0~[wo]~[8p]~q~[ep]~[8i]~q~[ep]~[8s]~0~w~8~0~w~[8o]~0~[wo]~[8I]~0~[wu]~[7a]~0~w~[7o]~0~[wp]~[7a]~(~e~[7s]~(~[ea]~[0u]~w~r~0~w~r~0~w~r~0-o~[qo]~w~r~[qp]~w~r~[qy]~w~r~[qo]~w~r~[0p]~w~[to]~[0s]~w~[tu]~[0p]~w~t~[0o]~w~[to]~[qo]~w~r~[qp]~w~r~[qy]~w~r~[qo]~w~r~[0p]~w~[to]~[0s]~w~[tu]~[0o]~w~t~0~w~t~[es]~t~u~e~t~u~e~t~u~[ea]~t~[up]~[wa]~r~u~w~r~u~w~r~u~w~r~[ua]~[qd]~e~y~q~e~y~q~e~[yp]~[qp]~e~[yp]~[0s]~e~t~0~e~t~[0s]~e~t~0~e~[ts]~[wf]~t~u~w~t~u~[qd]~w~r~q~w~[ro]~[0s]~w~t~0~w~t~q~e~t~[qa]~e~[tp]~[0o]~w~t~0~w~t~9~q~[ro]~[9p]~q~[ro]~[8o]~0~w~8~0~w~8~0~w~[8s]~0~w~[wd]~r~y~w~r~y~q~w~r~[qo]~w~r~[0f]~w~t~0~w~t~q~e~y~[qd]~e~y~[ws]~t~u~w~t~u~[wyia]-~s-d~[8us]~0~w~t~w~0~8",
+    "author": "Adolphe Adam",
+    "date": "20 April 2023",
+    "playTime": "01:13",
+    "url": "https://virtualpiano.net/music-sheet/o-holy-night-adolphe-adam/",
+    "custom": false
+  },
+  {
+    "name": "Ocean Eyes (Billie Eilish) (Alternative)",
+    "tempo": 72,
+    "trans": -5,
+    "tabs": "[qj]-[wh]-[ef]-~-[qj]-[wh]-[ef]-~-~[qj]-[wh]-[ef]-~-[tf]-[uh]-[qp]-~-~[qj]-[wh]-[ef]-~d-s-~[qj]-[wh]-[ef]-~-~[qj]-[wh]-[ef]-~d-s-d-[tf]-[uh]-[qp]-~-~[qj]-[wh]-[ef]-~d-s-~[qj]-[wh]-[ef]-~-~[qj]-[wh]-[ef]-~d-s-d-[tf]-[uh]-[qp]-~-~d-[tf]-[uh]-[qj]--z-l-q-w-e-~-z~l~[qz]~l-w-e--~j~j~j~[qx]~x~x~[wz]-z~[el]-~j~j~j~l~j~l~[tx]-[uv]-[qj]--~z-l-q-w-e-~-z~l~[qz]~l-w-e--~j~j~j~[qx]~x~x~[wz]-z~[el]-~j~j~j~l~j~l~[tx]-[uv]-[qj]-~-l-[qx]-[wv]-[eb]-~-~[qj]-[wh]-[ef]-~d-s-~[qj]-[wh]-[ef]-~-~[qj]-[wh]-[ef]-~d-s-d-[tf]-[uh]-[qp]-~-~[qj]-[wh]-[ef]-~d-s-~[qj]-[wh]-[ef]-~-~[qj]-[wh]-[ef]-~d-s-d-[tf]-[uh]-[qp]-~-d-~[tf]-[uh]-[qj]--z-l-q-w-e-~-z~l~[qz]~l-w-e--~j~j~j~[qx]~x~x~[wz]-z~[el]-~j~j~j~l~j~l~[tx]-[uv]-[qj]--~z-l-q-w-e-~-z~l~[qz]~l-w-e--~j~j~j~[qx]~x~x~[wz]-z~[el]-~j~j~j~l~j~l~[tx]-[uv]-[qj]-~-l-[qx]-[wv]-[eb]",
+    "author": "Billie Eilish",
+    "date": "15 January 2025",
+    "playTime": "02:11",
+    "url": "https://virtualpiano.net/music-sheet/ocean-eyes-billie-eilish-alternative/",
+    "custom": false
+  },
+  {
+    "name": "Ori, Lost In The Storm (Ori And The Blind Forest)",
+    "tempo": 108,
+    "trans": 5,
+    "tabs": "[p6]-e-T-~-y-u---[ufe]-d~f~[tqp]-o~p~[wu8]-y~u~[e9]-eup-[e!]Tu3663[q4]eu68q86[e92]yu46964[q^]Ei24^42[e6]-~-w~e~[yf0][pe][ur][pe][uf0][pe][ur][pe][f0][pe][ur][pe][f0][pe][ur][pe][f0][pe][ur][pe][sp]fjx[pd]f[sj]x[pa]fjx[po]fjx[up]fjx[yp]f[uj]x[pe]fjxpfjx[pe]yf[uj]x[tp]fjx[rp]fjx[wp]fjx[pe]fjxpfjxpfjxpfjx[uspe]fjx[pd]f[sj]x[ywpa]fjx[po]fjx[utqp]fjx[yp]f[uj]x[pe]fjxpfjx[wpe8]yf[uj]x[tp]fjx[rp]fjx[wp]fjx[wpe9]fjx[pQ]fjxpfjxpf[je]x[qpe8]f[uj]x[pe]fjx[wp9]fjx[rp]f[tj]x[e60]---[sfe]-~-a-[wp]~o--h-a~d[sqf]-~-a-[wupo]-~-j-a~d[utpfe]---[upe6]",
+    "author": "Gareth Coker",
+    "date": "4 December 2020",
+    "playTime": "01:09",
+    "url": "https://virtualpiano.net/music-sheet/ori-lost-in-the-storm-ori-and-the-blind-forest-gareth-coker/",
+    "custom": false
   },
   {
     "name": "Over Each Other (Linkin Park)",
@@ -377,7 +634,19 @@
     "author": "Linkin Park",
     "date": "30 December 2024",
     "playTime": "02:38",
-    "url": "https://virtualpiano.net/music-sheet/over-each-other-linkin-park/"
+    "url": "https://virtualpiano.net/music-sheet/over-each-other-linkin-park/",
+    "custom": false
+  },
+  {
+    "name": "Pokemon Theme (J. Siegler)",
+    "tempo": 144,
+    "trans": 5,
+    "tabs": "[68]~u~u~u~u-~u~[37y]-r~w--w~[68u]-u-y~t~y-~[57]-[57]-[57]-[57]-~[48]~t~i-i-i~u~[38]~y-t--t~[38u]-u~[$9y]-t~[0ru]--~[%0]-[%0]-[%0]-~[68]-u~u~u~u-u~[37y]-r~w--~[68u]~u-~y-t~y~[57]-[57]-[57]-[57]-~[48]~i~i~i~i-~i~[38u]-y~t--t~[38u]-u~[$9y]-t~[0ru]--~[%0]-[37]~u~o~p~[48]-u~u~o~p-p~[38]~o~y~t--~[48]-~o~p~a~s~a~[57]~p~[57]~o~[57]~u~[57o]~p~[68]-p--p~[38o]~u-t-~t~y~[38u]-u~[$9y]-t~[0ru]--~[%0]-[37]~u~o~p~[48]-u~u~o~p-p~[57]~o~[57]~p~[57]-[57o]-~[68]-[68]~p~p~a~s~a~[57]~p~[57]~o~[57]-[57]-~[26i]~s-s-s-o~[38]~s-s--~[38s]-~[$9s]-~[%0s]~a-~u~u~o~p-p~[48]-u~[57u]~o~p-s~[68p]-[68]-[68]-[68]-~[50]-[50]-[50]-[50]-~[68u]-[68]-[68]-[68]-~[50r]-[50]-[50]-[50]-~[68]~u~u~u~u-~u~[37y]-r~w--w~[68u]-u-y~t~y-~[57]-[57]-[57]-[57]-~[48]~t~i-i-i~u~[38]~y-t--t~[38u]-u~[$9y]-t~[%0ru]--~[%0]-[%0]-[%0]-~[68]-u~u~u~u-u~[37y]-r~w--~[68u]~u-~y-t~y~[57]-[57]-[57]-[57]-~[48]~i~i~i~i-~i~[38u]-y~t--t~[38u]-u~[$9y]-t~[%0ru]--~[%0]-[37]~u~o~p~[48]-u~u~o~p-p~[38]~o~y~t--~[48]-~o~p~a~s~a~[57]~p~[57]~o~[57]~u~[57o]~p~[68]-p--p~[38o]~u-t-~t~y~[38u]-u~[$9y]-t~[%0ru]--~[%0]-[37]~u~o~p~[48]-u~u~o~p-p~[57]~o~[57]~p~[57]-[57o]-~[68]-[68]~p~p~a~s~a~[57]~p~[57]~o~[57]-[57]-~[26i]~s-s-s-o~[38]~s-s--~[38s]-~[$9s]-~[%0s]~a-~u~u~o~p-p~[48]-u~[57u]~o~p-s~p-[3u]~[5o]~[6p]",
+    "author": "",
+    "date": "19 January 2024",
+    "playTime": "01:57",
+    "url": "https://virtualpiano.net/music-sheet/pokemon-theme-j-siegler/",
+    "custom": false
   },
   {
     "name": "Reprise (Spirited Away)",
@@ -387,7 +656,8 @@
     "author": "Joe Hisaishi",
     "date": "20 August 2024",
     "playTime": "01:13",
-    "url": "https://virtualpiano.net/music-sheet/reprise-spirited-away/"
+    "url": "https://virtualpiano.net/music-sheet/reprise-spirited-away/",
+    "custom": false
   },
   {
     "name": "Rondo in C (Mozart)",
@@ -397,7 +667,30 @@
     "author": "Wolfgang Amadeus Mozart",
     "date": "8 August 2025",
     "playTime": "0:33",
-    "url": "https://virtualpiano.net/music-sheet/rondo-in-c-mozart/"
+    "url": "https://virtualpiano.net/music-sheet/rondo-in-c-mozart/",
+    "custom": false
+  },
+  {
+    "name": "Ruler Of My Heart (VIVINOS)",
+    "tempo": 100,
+    "trans": 0,
+    "tabs": "[60tus]~[eufx]~fxfxf~[0rfx]~[0w]~[sl]~[dz]~[8qtfz]x~[fz]~[fl]~[eu]~[30adHk]~[yf]~H~lk~d~D[eusf]~[uox]~z~[yx]~zxzxz[wufx]~[uo]~z[xv]~[zv]~[qtusl]~hj[yh]g~d~[0yudHk]~[Wyui]~[0Wu]~[9y]~[480eu]~[us]~[us]~[8q]~[tup]~[tP]~[9WyOa]~u~3~W~y~[480et]~p~[eq]~w~yuy~[30Wtu]~[0W]~Er~[3y]~t~r~[6etup]~[0etup]~[6e]~[0to]~e~[7qryi]~9~q~[30ryo]~[7r]~W~[30]~[6etup]~[0etup]~[6e]~[qyo]~e~[7qryi]~9~q~[30yo]~[3uOs]~[7uOs]~[0a]~[6edgk]~0~[etup]~[ua]~[6f]~[0j]~[ek]~[0l]~[7afk]~9~[qdj]~[3ah]~[sj]~[3og]~w~[qiad]~[6upsf]~0~[etup]~pa~[6tus]~[rya]~[ep]~[4qeti]~8~q~[30yOa]~[3i]~[7u]~[0y]~6~8~[0e]~e~r~[8r]~[0e]~[8r]~2~[4e]~[7r]~[4e]~[3r]~[%r]~[7e]~[0t]~6~8~[0e]~e~r~[8r]~[0e]~[8r]~2~[6e]~9~[0p]a[3s][%a][7p][0O]~[6tup]~0~[etup]~0~[rtua]~[0tua]~[wtp]~[qtua]~2~q~[0ua]~[9tp]~[3ua]~[ria]~[%wp]~[0ws]~6~0~[etup]~[0tup]~[rtua]~[0tua]~[wp]~[2qya]~w~[Wtu]~0~[30y]~r~W~[9s]~[40uod]~[qupf]~[qet]~[qf]~[etpf]~[0pf]9[30opd]~[7d]~[0s]~[3uOd]~%~7~0~[6etus]~[0p]~[epD]~[pd]~[0s]~[9p]~[8upf]~[6e]~[up]~e~[6ups]~8~[9upd]~0~[qt]~e~[tsfj]~f~[ef]~[ts]~[eafH]~7~[0f]~[Wf]~[rs]~[3d]~[%s]~[0d]~[rsf]~[6e]~[wuf]~[0oh]~[wuf]~[0oh]~[wuf]W[eoh]r[yOH]~[30]~[7W][0u]O[7a]f[3H]k[7x]V~[30xm]~7[6e]8~e~[0tu]~y~u~8[0y]~[2eu]~6~[9ru]~[qy]~[3ru]~[%ru]~[7y]~[0to]6~[8eu]~[0e]ru~e~[ru]~8~[0t]~[2ru]~y~[6e]~[9r]~[6e]~[3qr]~e~[3r]%~[7t]~[6e]~6~[0eupf]~[6d]~[eupf]~[0d]~[7qiag]~7~[quf]~[9do]~[3quf]~7~[0yd]~[osh]~[6e]~[6pf]~[0e]~[6od]~[0epf]~6~[0ps]~[7qaf]~[70od]~[79q]~3~9~r~W~0~[60eup]~[upj]~[sl]~[5wsl]~[ak]~u~[4qdhz]~[jx]~u~[30Wu]~u~[0ru]~[6eup]~6~6~[0yf]~6~[5wu]~5~5~[0ef]~5~[4etp]~4~4~[0eyf]~4~[3Wru]~3~3~[70up]~3~0[4eup]~4~4~[0eyf]~4~[3Wru]~3~3~[70f]~3~[4etp]~4~4~[0eyf]4~q[3Wru]~0~Wr[80t]~r[6e]~[6k]l~[0ek]~j~6~[0eh]~[6f]~[7qh]~[79qj]~[3d]f~9~[rd]~[Ws]~[0p][6es]~[6d]~[0e]~6~[0wu]~[6o]~[7qp]s~[79qp]~s[3d]~[9f]~[ed][Wf]~[0h]~[6e]~[6k]l~[0ek]~j~6~[0wh]~f~[7qz]~[79qz]~[3l]~9~[qz][Wl][0j]~[6e]~[6b]v[0ex]Zzl[6j]h[0wf]h~j~[79l]~[79qj]~l~[3z]~9~[rx]~0~[60e]~[0a]~p~a~[wp]~[7qa]~[9p]~[qa]p~[3a]~%~[7p]~[0s]~6~[0p]~[ea]~p~a~e[qp]~[3a]~9~q~3~W~r~u~[sfj]~[sfjn]~b~[sfjn]~[sfjb]~[afjn]~[afjb]~n~[afjb]~n~[afj]~b~n~[osf]~[osfx]~v~[osfv]~v~[osfx]~[uadz]~[uadz]~[uadz]~[uadz]~[6efhl]~0~et~e~50~et~[5w]~0~et~e~[5ak]~0~e~[toh]~[4q]0~et~e~4~0~et~[30us]~9~W~r~W~[3ua]~9~[WO]~[6rfhl]~0~e~t~e~[6y]~0~e~t[5wu]~0~e~t~e~[5afk]~0~e[tosh]~[4q]~0~e~t~e~[4y]~0~e~t[30ru]9~W~r~[3W]~9~W~r~W~[4qe]~0~e~t~e~[4y]~0~e~[tx]~[30fjx]9~W~r~[Wz]~[3dz]~9[Wsl]~[rak]~[4qsl]0~e~t~e~[4y]~0~e~t[3ru]~9~W~r~W~3~9~W~r~[60et]",
+    "author": "BL8M",
+    "date": "19 October 2025",
+    "playTime": "2:55",
+    "url": "https://virtualpiano.net/music-sheet/ruler-of-my-heart-vivinos/",
+    "custom": false
+  },
+  {
+    "name": "Runaway (Kanye West)",
+    "tempo": 160,
+    "trans": 4,
+    "tabs": "l---l---l---~s---k---k---~k---a---j---~j---j---p---~g---g---f---~l-~180w[0l]80w180w[0l]80w180w[0l]80w180w[0s]80w~[7a]70w[0k]70w770w[0k]70w770w[0k]70w770w[0a]70w~[6p]680[8j]6806680[8j]6806680[8j]6806680[8p]680~[4i]68q[8g]68q468q[8g]68q468q[8f]68q468ql---~uu[15s][8o]0[wi]0[8u]0[wu][1s][8o]0[wi]0[8u]0[wu]~[7oa][7up][0oa]w070w770w07[0f][wf]~[7f][7d][0d][wd]0[7s]0[wd]77[0s]w[0d]7[0f][wd]~[6s]6808680668086[8s]0[6s][6o]8[0o]868[0u]~[6o]6[8tu]0[8o]6[8u][0ip]4[6s]8q868q468q86[8s][qs]~[4s][6o]8[qo]86[8u]q[4o]6[8u]q[8o]6[8p]o~1[8u]0w0[8o][0o][wo][1o]8[0o][wo][0s]8[0o]w~[1u]80w0[8o][0o][wo][1o]8[0o][wo][0s]8[0ua][wp]~[7oa]70w0[7oa][0sf][wad][7sf]7[0sf][wad][0sf]7[0ad]w~[7ps]70w0[7p][0us][wp][7us]7[0us][wp][0uad]7[0uad][ws]~66808[6p][8us][0p][6us]6[8us][0p][8uad]6[8uad][0s]~66808[6p][8us][0p][6us]6[8us][0p][8uad]6[8id][0s]~4686[eo][qo][8o]6[eo]q[8u]6[eu]-~ooo~o~u~[yp]-~[uo]-~[4f]68qs~uu[15s][8o]0[wi]0[8u]0[wu][1s][8o]0[wi]0[8u]0[wu]~[7oa][7up][0oa]w070w770w07[0f][wf]~[7f][7d][0d][wd]0[7s]0[wd]77[0s]w[0d]7[0f][wd]~[6s]6808680668086[8s]0[6s][6o]8[0o]868[0u]~[6o]6[8tu]0[8o]6[8u][0ip]4[6s]8q868~[15]80w0[8o][0o][wo]~[1o]8[0o][wo][0s]8[0o]w[1u]80[wo][0o][8o]~[1o]8[0o][wo][0s]8[0ua][wp][7oa]70w0[7oa][0sf][wad]~[7sf]7[0sf][wad][0sf]7[0ad]w[6ps]680868[0p][8us][6p]~[6us]6[8us][0p][8uad]6[8uad][0s]66808[6p][8us][0p]~[6us]6[8us][0p][8uad]6[8uad][0s]66808[6p][8us][0p]~[6us]6[8us][0p][8uad]6[8id][0s]468q868q[4h]6[8h][qh]8[6h]8[qf]~48[ef]---~l---~l---~l---~s",
+    "author": "Kanye West",
+    "date": "15 March 2023",
+    "playTime": "02:20",
+    "url": "https://virtualpiano.net/music-sheet/runaway-kanye-west-2/",
+    "custom": false
   },
   {
     "name": "Rush E (Intermediate)",
@@ -407,7 +700,8 @@
     "author": "",
     "date": "24 September 2023",
     "playTime": "01:54",
-    "url": "https://virtualpiano.net/music-sheet/rush-e-intermediate/"
+    "url": "https://virtualpiano.net/music-sheet/rush-e-intermediate/",
+    "custom": false
   },
   {
     "name": "Shape Of My Heart (Sting)",
@@ -417,7 +711,19 @@
     "author": "Sting",
     "date": "23 August 2024",
     "playTime": "04:39",
-    "url": "https://virtualpiano.net/music-sheet/shape-of-my-heart-sting/"
+    "url": "https://virtualpiano.net/music-sheet/shape-of-my-heart-sting/",
+    "custom": false
+  },
+  {
+    "name": "Si Antes Te Hubiera Conocido (Karol G)",
+    "tempo": 128,
+    "trans": -1,
+    "tabs": "8[us]~[us]~[us]~0~[us]~0~[us]~8[us]~[us]~[us]~0~[us]~8~[us]~0[ua]~[ua]~[ua]~w~[ua]~w~[ua]~0[ua]~[ua]~[ua]~0~[ua]~(~[YP]~9[yp]~[yp]~[yp]~q~[yp]~q~[yp]~9[yp]~[yp]~[yp]~q~[yp]~9~[yp]~q[iO]~[iO]~[iO]~W~[iO]~W~[iO]~q[iO]~[iO]~[iO]~W~d~[qs]~d~[8f]-[ws]~t~0~t~0~t~8~f~[wf]~[tf]~[0f]~[tf]~[0g]~[tf]~[0d]-[rf]~u~w~u~w~u~0-r~u~w~[ud]~[Qd]~[Yh]~[9g]-[ef]~y~[qd]~y~q~y~[9f]~f~[ef]~[yf]~[qg]~[yf]~[qd]~[ys]~[4f]~d~8~q~%~[qd]~[%d]~[qs]~[4f]~d~8~[qd]~[%d]~[qd]~[%d]~[qs]~[8h]-[wf]~[td]~0~t~0~[ts]~[8f]~f~[wf]~[tf]~[0g]~[tf]~[0d]~[ts]~[0h]-[rf]~[ud]~w~u~w~[ua]~[0f]~f~[rf]~[uf]~[wg]~[uf]~[Qd]~[Ys]~[9d]-[ed]~y~q~y~q~[ys]~[9f]~f~[ef]~[yf]~[qg]~[yf]~[qd]~[ys]~[4d]-[8d]~q~%~[qd]~[%d]~[qs]~[4d]-[8d]~[qz]~%~q~[%s]~[qd]~[1f][5f]~[8f]~f[5f]~[8f]~0~[8s]~[0d]~[1f][5f]~[8f]~f[5f]~[8f]~[0f]~[8g]~[0f]~[3f][7f]~[0f]~f[7f]~[0f]~w~[0s]~[wd]~[3f][7f]~[0f]~f[7f]~[0f]~[wf]~[(g]~[Qf]~[2d][6d]~[9d]~d[6d]~[9d]~q~[9s]~[qs]~[2d][6d]~[9d]~d[6d]~[9f]~q~[9s]~[qs]~[4d][8d]~[qd]~d[8d]~[qf]~[Wd]~[qs]~[Ws]~[4d][8d]~[qd]~d[8d]~[qf]~[Wd]~[qs]~[Wd]~[8f]-[ws]~t~0~t~0~t~8~f~[wf]~[tf]~[0f]~[tf]~[0g]~[tf]~[0d]~f~r~u~w~u~w~u~0-r~u~w~[ud]~[Qd]~[Yh]~[9g]-[ef]~y~[qd]~y~q~y~[9f]~f~[ef]~[yf]~[qg]~[yf]~[qd]~[ys]~[4f]~d~8~q~%~[qd]~[%d]~[qs]~[4f]~d~8~[qd]~%~[qd]~[%s]~[qd]~[1f]~[5s]~8~[5f]~[8l]~[5l]~[8d]~[5f]~1~[5f]~[8f]~[5f]~[8f]~[5f]~[8g]~[5f]~[3d]~7~[0f]~7~0~[7f]~[0l]~[7l]~[3k]lk[7h]~[0f]~7~0~[7d]~[0d]~[7h]~[2g]~6~[9f]~6~[9d]~6~9~6~[2f]~[6f]~[9f]~[6f]~[9g]~[6f]~[9d]~[6s]~[4f]~[8d]~q~8~q~[8d]~[qd]~[8s]~[4f]~[8d]~q~[8d]~q~[8d]~[qs]~[8d]~[8f]~d~s~[0wd]~f~[0w]~s~[0wd]~[8f]-~[0wd]~d~[0wd]~s~[0wd]~[0f]~d~s~[wrd]~f~[wrd]~s~[wrd]~[0f]-~[wrd]~d~[wrd]~d~[QEh]~[9g]~f~g~[qef]~g~[qef]~g~[qef]~[9g]-d~[qed]~d~[qed]~d~[qeh]~[qg]~f~g~[Wtf]~g~[Wtf]~g~[Wtf]~[qg]-~[Wtf]~l~[Wtk]~l~[Wtk]~[8h]-w~[tg]~[0f]~t~0~[tf]~[8l]~k~[wl]~[tk]~[0l]~[tk]~[0l]~[tk]~[0h]-r~[ug]~[wf]~u~w~[uf]~[0l]~k~[rl]~[uk]~[wl]~[uk]~[Ql]~[Yk]~[9h]-e~[yg]~[qf]~y~q~[yf]~[9l]~k~[el]~[yk]~[ql]~[yk]~[ql]~[yk]~[4h]-8~[qg]~[%f]~q~%~q~4-8~[qf]~[%f]~[qx]~[%x]~[qv]~[1v]~5~8~[5c]~[8x]~5~8~[5x]~[1m]~[5n]~[8m]~[5n]~[8m]~[5n]~[8m]~[5n]~[3v]~7~0~[7c]~[0x]~7~0~[7x]~[3x]~7~[0x]~7~[0x]~[7x]~[0c]~[7x]~[2z]~6~[9z]~6~9~6~9~[6p]~[2d]~[6f]~[9f]~[6f]~[9f]~[6f]~[9g]~[6f]~[4d]~8~[qd]~8~q~[8d]~[qd]~[8s]~[4d]~[8d]~[qd]~8~q~8~[qs]~[8d]~[8tf]~f~[8tf]~f~f-[18s]~d~[1f][5f]~[8f]~f[5f]~[8f]~[0f]~[8g]~[0f]~[3f][7f]~[0f]~f[7f]~[0f]~w~[0s]~[wd]~[3f][7f]~[0f]~f[7f]~[0f]~[wf]~[(g]~[Qf]~[2d][6d]~[9d]~d[6d]~[9d]~q~[9s]~[qs]~[2d][6d]~[9d]~d[6d]~[9f]~q~[9s]~[qs]~[4d][8d]~[qd]~d[8d]~[qf]~[Wd]~[qs]~[Ws]~[4d][8d]~[qd]~d[8d]~[qf]~[Wd]~[qs]~[Wd]~[8f]-[ws]~t~0~t~0~t~8~f~[wf]~[tf]~[0f]~[tf]~[0g]~[tf]~[0d]~f~r~u~w~u~w~u~0-r~u~w~[ud]~[Qd]~[Yh]~[9g]-[ef]~y~[qd]~y~q~y~[9f]~f~[ef]~[yf]~[qg]~[yf]~[qd]~[ys]~[4f]~d~8~q~%~[qd]~[%d]~[qs]~[4f]~d~8~[qd]~%~[qd]~%~[qf]~8-~[0wf]~l~[0wl]~k~[0wh]~8~z-[0wz]-[0wz]-[0wz]~0-~[wrf]~l~[wrl]~klk[wrh]~0~f~s~[wrf]~s~[wrf]~s~[QEf]~9[pd]~[pd]~[qepd]~9~[pd]~9~[pd]~9[pd]~[pd]~[qepd]~9~[pd]~9~[pd]~q[Og]~[Og]~[WOtg]~q~[Og]~q~[Og]~q[Og]~[Og]~[WOtg]~q~[Og]~q~[Og]~8-~[0wf]~l~[0wl]~k~[0wh]~8~z-[0wz]-[0wz]-[0wz]~0-~[wrf]~l~[wrl]~klk[wrh]~0~f~s~[wrf]~s~[wrf]~s~[QEf]~9[pd]~[pd]~[qepd]~9~[pd]~9~[pd]~9[pd]~[pd]~[qepd]~9~[pd]~9~[pd]~q[Og]~[Og]~[WOtg]~q~[Og]~q~[Og]~q[Og]~[Og]~[WOtg]~q~[Og]~q~[Og]~[18uos]",
+    "author": "Karol G",
+    "date": "24 December 2024",
+    "playTime": "03:15",
+    "url": "https://virtualpiano.net/music-sheet/si-antes-te-hubiera-conocido-karol-g/",
+    "custom": false
   },
   {
     "name": "Solas (Jamie Duffy)",
@@ -427,7 +733,8 @@
     "author": "Jamie Duffy",
     "date": "8 October 2023",
     "playTime": "01:35",
-    "url": "https://virtualpiano.net/music-sheet/solas-jamie-duffy/"
+    "url": "https://virtualpiano.net/music-sheet/solas-jamie-duffy/",
+    "custom": false
   },
   {
     "name": "Somewhere Over the Rainbow (Easy)",
@@ -437,7 +744,8 @@
     "author": "Israel Kaʻanoʻi Kamakawiwoʻole",
     "date": "22 January 2023",
     "playTime": "02:40",
-    "url": "https://virtualpiano.net/music-sheet/somewhere-over-the-rainbow-easy/"
+    "url": "https://virtualpiano.net/music-sheet/somewhere-over-the-rainbow-easy/",
+    "custom": false
   },
   {
     "name": "Somewhere Over the Rainbow (The Wizard of Oz) (Alternative)",
@@ -447,7 +755,30 @@
     "author": "Judy Garland",
     "date": "16 October 2020",
     "playTime": "03:24",
-    "url": "https://virtualpiano.net/music-sheet/somewhere-over-the-rainbow-the-wizard-of-oz-alternative/"
+    "url": "https://virtualpiano.net/music-sheet/somewhere-over-the-rainbow-the-wizard-of-oz-alternative/",
+    "custom": false
+  },
+  {
+    "name": "Stranger Things (Running Up That Hill) (Alternative)",
+    "tempo": 108,
+    "trans": 3,
+    "tabs": "e---~o-u~e~[468]--~o-u~e~[579]--~o-u~w~[680]~e--~w~e~t~[468]--~o~e~[468]--~o~e~[579]--u-~[680y]-t~e-~uuuo~[468]~u~e~t~[579]~r-w~[680]~uuuo~[570]-uue~[468]-e~t~[579]~r-w~[680]~uuo-[570u]~ooouo~[468]~u~e~t~[579]~r-w~[680]~uu~i~[570o]~iu~y~[468t]-e~t~[579]~y-t~[468]-~o~u~[579]-t~y~[69q]---~[468]~t~ou~[579u]-~t~y~[69q]-u-i-~t~[468o]oo~o~u-~ttt[579o]-o~r-~ee~[680o]o~o~u-o-e-u-~t~ooo~o~u~[468]-~t~ooo~o~r~[579]-~e~ooo~o~u~[680]~o---~t~ooo~o~u~[468]--~o-u~y~[579]--~o-u~w~[680]~e--~w~e~t~[468]--~o~e~[468]--~o~e~[579]--u-~[680y]-t~e~uu~uuo~[468]~u~e~t~[579]~r-w~[680]~uuu~[570o]~uuue~[468]-e~t~[579]~r-w~[680]~uuo~u[570u]~o~ouo~[468]~u~e~t~[579]~r-w~[680]~uuu~[570o]~iu~y[468y]~t~e~t~[579]~r-t~[680]~[tu][tu][ro][ro]~[570ro]~[ro][ro][ro]~[ro][ro][468ro]~u~e~t~[579]~r-r~[680]~oo~i~[570u]~y-yt[468]~t~e~t~[579]~r-t~[680]-o~u~[570]-t~y~[69q]-u-i--~[468]~t~ou~[579u]-t~y~[69q]-u-i-o-~[468]~t~ou~[579u]-t~y~[69q]-u-i-o~t~[468o]oo~o~u-~ttt[579o]-o~r-~ee~[680o]o~o~u-o-e-u-t~ooo~o~u~[468]-~t~ooo~o~r~[579]-~e~ooo~o~u~[680]~o---~t~ooo~o~u~[468]--o-u~y~[579]--o-u~w~[680]~e--~w~e~t~[468]--~o~e~[468]--~o~e~[579]--u-~[680y]-t~e--~[468t]-o~u~[579]-t~y~[69q]-u-i--~[468]~t~ou~[579u]-t~y~[69q]~y~t-~y-~[468]~t~ou~[579u]-t~y~[69q]-u-i--~[468]-[et][et]~[et]~[ry]-~[579]-[ry][ry]~[ry]~[tu]-~[680]~[uo]~[yi]~[tu]-[ry]-~[ry]~[ry]~[ry]~[et][et]--~[468]-[et][et]~[et]~[ry]-~[579ry][ry]~[ry][ry]~[ry][tu]-~[680]~[uo]~[yi]~[tu]-[uo]~[yi]-~[tu]-[ry]~[ryo]-~u~e~[468]--o-~u~e~[579]--o-~u~w~[680]~e--~w~e~t~[468]--~o~e~[468]--~o~e~[579]--u-~[680y]-t~e---~t~ooo~o~u~[468]-ttto-o~r~[579]-ee~oo~o~u~[680]~o-e-u-~[468]-~t~ooo~o~u~[468]-~t~ooo~o~r~[579]--e~u-[680y]-t~e---~t~ooo~o~u~[468]-ttto-o~r~[579]-ee~oo~o~u~[680]~o-e-u-~[468]-~t~ooo~o~u~[468]-~t~ooo~o~r~[579]--e~u-[680y]-t~e---~t~ooo~o~u~[468]---~t~ooo~o~r~[579]---~e~u-~[680y]-t~e--~[680]---~[680]---~[680]---~[680]-~eet-t~y~[680]-ee~ttt~t~e~[680]-~eet-t~yY[680y]-ee~ttt~t~e~[680]",
+    "author": "Kyle Dixon \u0026 Michael Stein",
+    "date": "11 July 2024",
+    "playTime": "04:20",
+    "url": "https://virtualpiano.net/music-sheet/stranger-things-running-up-that-hill-alternative/",
+    "custom": false
+  },
+  {
+    "name": "Stronger Together (Ladybug and Cat Noir)",
+    "tempo": 85,
+    "trans": -2,
+    "tabs": "[8tg]~s~o~s~f~s~o~s~d~s~o~s~d~o~f~o~[6eg]~s~o~s~f~s~o~s~d~s~o~s~d~o~f~o~[4qh]~s~o~s~g~s~o~s~f~s~o~s~g~s~h~s~[5wd]~s~o~s~d~s~o~s~d---~[0wos]-~[os]~qw[oa]-~[oa]-~[os]-~[os]~ew[oa]~q0[oa]~9~[68eos]-~[os]~90[oa]-~[oa]-~[os]-~[os]~8w[qoa]~0~[9oa]~8~[48qos]-~[os]~50[oa]-~[oa]-~[od]-~[od]~5[0oa]~q[oa]~w~[os]~9~[os]-~[os]-~[os]-~[oa]-~[oa]-~[oa]-~[oa]~w~[5wtu]-~[wt]~io[wr]-~[wr]-~[wt]-~[wt]~po[wr]~i~[wru]~y~[6wt]-~[wt]~yu[wr]-~[wr]-~[wt]-~[wt]~o[wri]~u~[wry]~t~[4wt]-~[wt]~wu[wr]-~[wr]-~[wy]-~[wy]-~[wru]u~i[wr]~o~[wt]~y~[wt]-~[wt]-~[wt]-",
+    "author": "Jeremy Zag",
+    "date": "23 August 2024",
+    "playTime": "01:05",
+    "url": "https://virtualpiano.net/music-sheet/stronger-together-ladybug-cat-noir/",
+    "custom": false
   },
   {
     "name": "Stubborn Love (The Lumineers)",
@@ -457,7 +788,8 @@
     "author": "The Lumineers",
     "date": "22 October 2023",
     "playTime": "03:23",
-    "url": "https://virtualpiano.net/music-sheet/stubborn-love-the-lumineers/"
+    "url": "https://virtualpiano.net/music-sheet/stubborn-love-the-lumineers/",
+    "custom": false
   },
   {
     "name": "Symphony (Clean Bandit)",
@@ -467,7 +799,19 @@
     "author": "Clean Bandit",
     "date": "15 May 2025",
     "playTime": "03:34",
-    "url": "https://virtualpiano.net/music-sheet/symphony-clean-bandit/"
+    "url": "https://virtualpiano.net/music-sheet/symphony-clean-bandit/",
+    "custom": false
+  },
+  {
+    "name": "Tale As Old As Time (Beauty and the Beast)",
+    "tempo": 100,
+    "trans": 0,
+    "tabs": "0~w~r~t~q~-~0~w~r~t~y~-~t~y~u~i~o~-~o~i~u~y~t~-~i~u~y~t~w~-~0~w~r~t~q~-~0~w~r~t~y~-~u~y~u~o~t~-~t~r~t~u~q~-~u~i~y~u~t~-~t~y~u~i~o~-~e~t~i~p~o~-~t~y~u~i~o~-~o~i~u~y~t~-~t~y~u~t~y~-~Q~e~T~u~W~-~Q~e~T~u~I~-~y~u~I~o~p~-~p~o~I~u~y~-~o~I~u~y~r~-~Q~e~T~u~W~-~Q~e~T~u~I~-~I~u~I~p~y~-~y~T~y~I~w~-~I~p~u~I~y~-~I~u~I~p~y~-~y~T~y~I~w~-~I~p~u~I~y",
+    "author": "Alan Menken Angela Lansbury",
+    "date": "10 September 2020",
+    "playTime": "01:12",
+    "url": "https://virtualpiano.net/music-sheet/tale-as-old-as-time-beauty-and-the-beast-angela-lansbury/",
+    "custom": false
   },
   {
     "name": "Test Drive (How To Train Your Dragon)",
@@ -477,7 +821,8 @@
     "author": "John Powell",
     "date": "1 October 2023",
     "playTime": "02:24",
-    "url": "https://virtualpiano.net/music-sheet/test-drive-how-to-train-your-dragon/"
+    "url": "https://virtualpiano.net/music-sheet/test-drive-how-to-train-your-dragon/",
+    "custom": false
   },
   {
     "name": "The Apology Song (The Book of Life)",
@@ -487,7 +832,19 @@
     "author": "Gustavo Santaolalla",
     "date": "19 October 2025",
     "playTime": "1:10",
-    "url": "https://virtualpiano.net/music-sheet/the-apology-song-the-book-of-life/"
+    "url": "https://virtualpiano.net/music-sheet/the-apology-song-the-book-of-life/",
+    "custom": false
+  },
+  {
+    "name": "The Christmas Song",
+    "tempo": 120,
+    "trans": -5,
+    "tabs": "s-l-k~j~h~g~f-f-f--~s-j-h~g~f~d~s---~s-s-d-s~d~f-h~j~k-~j~H-H-J~H~h~g~h--~h~g~f~d~s-l-k~j~h~g~f-f-f--~s-j-h~g~f~d~s---~s-s-d-s~d~f-h~j~k-~j~h--~h~g~f~d~h~f~j~h~g-a-s--~s~a~s~J--~j~h~g~h--~s~a~s~J~j~J~j~J~j~h~g~h--~s~a~s~H~h~H-~h~h~D~g--~D~g~D~d~d~d~d~d-d~f~d--~f-s-l-k~j~h~g~f-f-f-~d~s-j-h~g~f~d~s--~a-s-a~s~d-~s~d~f-h~j~k-~l~j~h-s--d-s",
+    "author": "Various",
+    "date": "9 December 2023",
+    "playTime": "01:04",
+    "url": "https://virtualpiano.net/music-sheet/the-christmas-song/",
+    "custom": false
   },
   {
     "name": "The Happy Farmer (Cedric Everglen)",
@@ -497,7 +854,8 @@
     "author": "Various",
     "date": "31 August 2025",
     "playTime": "01:53",
-    "url": "https://virtualpiano.net/music-sheet/the-happy-farmer-cedric-everglen/"
+    "url": "https://virtualpiano.net/music-sheet/the-happy-farmer-cedric-everglen/",
+    "custom": false
   },
   {
     "name": "The Lady In Black (Mercyful Fate)",
@@ -507,7 +865,8 @@
     "author": "Mercyful Fate",
     "date": "24 June 2024",
     "playTime": "02:04",
-    "url": "https://virtualpiano.net/music-sheet/the-lady-in-black-mercyful-fate/"
+    "url": "https://virtualpiano.net/music-sheet/the-lady-in-black-mercyful-fate/",
+    "custom": false
   },
   {
     "name": "The Medallion Calls (Klaus Badelt)",
@@ -517,7 +876,19 @@
     "author": "Klaus Badelt",
     "date": "8 August 2025",
     "playTime": "1:04",
-    "url": "https://virtualpiano.net/music-sheet/the-medallion-calls-klaus-badelt/"
+    "url": "https://virtualpiano.net/music-sheet/the-medallion-calls-klaus-badelt/",
+    "custom": false
+  },
+  {
+    "name": "The Owl House Credits Theme",
+    "tempo": 127,
+    "trans": -6,
+    "tabs": "[57]-d-~[8sl]~w~[tjb]~w~[uhv]~t~[wfx]~t~[7rak]~w~[rfx]~[wgc]~[uhv]~r~[wfx]~0~[8sl]~w~[tjb]~w~[uhv]~t~[wfx]~t~[7rak]~w~[rfx]~[wgc]~[uhv]~r~[wfx]~0~[8pj]~q~[ehv]~q~[tfx]~q~[edz]~q~[9oa]~[wps]~[roa]~[wip]~[yo]~w~[ros]~w~[8t]~q~[ehv]~q~[tfx]~q~[edz]~q~[9oa]~[wps]~[roa]~[wip]~[yo]~w~[ros]~w~[8sl]~0~[wjb]~t~[uhv]~t~[wfx]~0~[7rak]~0~[wfx]~[rgc]~[uhv]~r~[wfx]~0~[8sl]~0~[ejb]~t~[uhv]~t~[efx]~0~[8t]~0~[Wfx]~[tgc]~[uhv]~t~[Wfx]~0~[8pj]~q~[ehv]~q~[tfx]~q~[edz]~q~[9ak]~[wsl]~[rak]~[wpj]~[yoh]~w~[rsl]~w~580twoux~l-uosf",
+    "author": "",
+    "date": "25 August 2023",
+    "playTime": "00:28",
+    "url": "https://virtualpiano.net/music-sheet/the-owl-house-credits-theme/",
+    "custom": false
   },
   {
     "name": "Thunder (Imagine Dragons)",
@@ -527,7 +898,19 @@
     "author": "Imagine Dragons",
     "date": "3 June 2023",
     "playTime": "02:51",
-    "url": "https://virtualpiano.net/music-sheet/thunder-imagine-dragons/"
+    "url": "https://virtualpiano.net/music-sheet/thunder-imagine-dragons/",
+    "custom": false
+  },
+  {
+    "name": "Thunderstruck",
+    "tempo": 100,
+    "trans": 0,
+    "tabs": "r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r u r o r u r o r u r o r u r o r u r o r u r o r u r o r u r o r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r u r o r u r o r u r o r u r o r u r o r u r o r u r o r u r o r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r Q [Gak] [G7ak] [Gdz] 7 7 7 7 7 [G7ak] [G7ak] [G7dz] [G7ak] [G7ak] [G7ak] [G7dz] [G7ak] [G7ak] [G7ak] [6pfj] [G7ak] 7 7 7 7 7 7 [C7kn?] [C7kn?] 7 [G7ak] [G7ak] [G7dz] 7 7 7 7 7 [G7ak] [G7ak] [G7dz] [G7ak] [G7ak] [G7ak] [G7ak] 7 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 7 7 7 7 [C7kn?] [C7kn?] 7 7 [Gak] 7 [Gak] 7 [G7dz] 7 7 7 7 [G7ak] [G7ak] [G7dz] 7 7 7 [G7dz] 7 [G7ak] [G7ak] [7pfj] 7 [G7ak] 7 7 7 7 7 7 [C7kn?] [C7kn?] 7 [G7ak] [G7ak] [G7dz] 7 7 7 7 7 [G7ak] [G7ak] [G7dz] 7 [Gak] 7 7 7 [G7dz] 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 7 7 7 7 [C7kn?] [C7kn?] [G7ak] 7 [Gak] 7 [Gak] 7 [G7dz] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 7 [G37dz] 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 [G7dz] [G37dz] 7 [Gdz] 7 [Gak] 7 [G7dz] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 7 [G37dz] 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 7 [37] 7 7 7 7 7 7 7 7 7 [Ira] 7 [Ira] 7 [G7ak] [G7ak] [G7ak?] 7 7 7 7 7 7 7 [7?] 7 7 7 7 7 7 7 [7a?] r [7p] r [7O] r [7p] r [7O] r [7I] r [7O] r [7u] r [7I?] r [7Y] r [7u] r [7Y] [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 [7aIG] 7 7 7 [Ira] 7 [Ira] 7 [I7yd] 7 [Iuf] 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 [I7ra] 7 7 7 7 7 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 [aIG] 7 7 7 7 [7aIG] 7 [7aIG] 7 [aIG] 7 [7YD] [7aIG] 7 [uf] 7 [YD] 7 [I7ra?] 7 7 7 7 7 7 7 7 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 7 7 7 7 [7a] [I7yd] 7 [Iuf] 7 [Iyd] 7 [I7uf] 7 [Iuf] 7 [YID] 7 [7aIG?] 7 7 [I7ra] 7 7 7 7 7 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG] 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 7 [7aIG] 7 7 7 [7aIG] 7 [aIG] 7 [uaf] 7 [I7yd] 7 [Ira] 7 7 [Q7r] [60e] [370] a a d d f d G [60e] [Q7r] [60e] [370] a a d a a p [60e] [Q7r] [60e] [370] a a d f f d G [60e] [Q7r] [60e] [370] a p [Iyd] [Ira] [I7ra] 7 7 [60e] 6 6 [269] [370] [60e] 6 6 [370] 3 3 [Iyd] 3 [Ira] 3 [I7ra] 7 [Iyd] 7 [60e] 6 6 [269] [370] [6upf] 6 [6upf] 3 [3uad] 3 p 3 a 3 [I7ra] 7 7 [60e] 6 6 [269] [370] [60e] 6 6 [370] 3 3 [Iyd] 3 [Ira] 3 [I7ra] 7 7 [60e] 6 6 [269] [370] [60e] 6 6 [370] 3 3 3 3 [Q7a] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [7a?] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [Q7r?] 7 7 [Q7r] 7 7 [I7ra] [I7ra] [I7yd] [7uaf] [7uaf] [7aIG] 7 7 [I7ra] 7 [Q7r?] 7 7 [Q7r] 7 7 [I7ra] [I7ra] [7up] e [I7ra] [I7ra] [7eup] 7 [I7ra] 7 7 [370ruO] [370ruO] [7r$I] [30] [$Q] [6e] [60eT] 6 [30r] [3I] 3 [3I] [3a] p [3I] u [3I] u [7y] r [70] [7Q] [7e] [60e] 6 6 [30r] 3 [3I] 3 [370ruO] [370ruO] [7r$I] [30] [$Q] [6e] [60eT] 6 [30r] 3 3 [3k] 3 j 3 G [3f] g [7f] d f G [7j] G [7f] G [7g] f [6d] a 6 [6f] [3f] 3 3 3 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [7a] r [7p] r [7O] r [7p] r [7O] r [7I] r [7O] r [7u] r [7I] r [7Y] r [7u] r [7Y] 7 7 [Gdz] 7 [Gak] 7 [$G7ak] 7 7 [360e] 6 6 [269] [30] [360e] 6 6 [370] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [360e] 6 6 [29] 3 [G36dz] 6 [G6dz] 3 [G3dz] 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [360e] 6 6 [269] [30] [360e] 6 6 [370] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [360e] 6 6 [29] 3 [G36dz] 6 [G6dz] 3 [G3dz] 3 [G3dz] [3ak] [$G7dz] 7 7 7 [$7] [$Gdz] [%ak] [G3ak] 3 3 3 [370] 3 3 3 [$G7dz] 7 7 7 [$7] [$Gdz] [%SL] [G3ak] 3 3 3 [370] 3 3 3 [$G7dz] 7 7 7 [$7] [$Gdz] [%dz] [G3ak] 3 3 3 [370] 3 3 3 [$G7dz] 7 7 7 [$7] [$Gdz] [%ak] [G3ak] [Gak] [3dz] 3 [3dz] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [36] 6 6 2 3 [G36dz] 6 [G6dz] 3 [G3dz] 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [36] 6 6 2 3 [G36dz] [6fkx] 6 [3fkx] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [36kGC] 6 6 2 3 [36fkx] 6 [dz] 6 [Gak] 3 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [36] 6 6 2 3 [G36dz] 6 [G6ak] 3 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] [G3ak] [G3ak] [3GC] [$7] 7 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] [3a] [G3ak] [G3ak] [$7] 7 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] 3 [3r] 3 [$7a] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [7a?] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [Q7r?]",
+    "author": "",
+    "date": "???",
+    "playTime": "??:??",
+    "url": "",
+    "custom": true
   },
   {
     "name": "Tomorrow (Evgeny Grinko)",
@@ -537,7 +920,8 @@
     "author": "Evgeny Grinko",
     "date": "26 March 2025",
     "playTime": "01:09",
-    "url": "https://virtualpiano.net/music-sheet/tomorrow-evgeny-grinko/"
+    "url": "https://virtualpiano.net/music-sheet/tomorrow-evgeny-grinko/",
+    "custom": false
   },
   {
     "name": "Truce",
@@ -547,7 +931,8 @@
     "author": "Twenty One Pilots",
     "date": "10 September 2020",
     "playTime": "02:05",
-    "url": "https://virtualpiano.net/music-sheet/truce-twenty-one-pilots/"
+    "url": "https://virtualpiano.net/music-sheet/truce-twenty-one-pilots/",
+    "custom": false
   },
   {
     "name": "Under The Sea (Intermediate)",
@@ -557,7 +942,8 @@
     "author": "Alan Menken",
     "date": "5 May 2023",
     "playTime": "03:18",
-    "url": "https://virtualpiano.net/music-sheet/under-the-sea-intermediate/"
+    "url": "https://virtualpiano.net/music-sheet/under-the-sea-intermediate/",
+    "custom": false
   },
   {
     "name": "Wanderers (Tokyo Ghoul)",
@@ -567,7 +953,19 @@
     "author": "Ling Tosite Sigure",
     "date": "11 November 2020",
     "playTime": "04:02",
-    "url": "https://virtualpiano.net/music-sheet/wanderers-tokyo-ghoul/"
+    "url": "https://virtualpiano.net/music-sheet/wanderers-tokyo-ghoul/",
+    "custom": false
+  },
+  {
+    "name": "We Wish You A Merry Christmas (Alternative)",
+    "tempo": 116,
+    "trans": -5,
+    "tabs": "[tuo]~s~f~s~[tuf]-~[tip]~d~g~d~[tig]-~[wio]~a~d~a~[wid]-~[tus]~d~f-[tus]-~[tuo]~s~f~s~[tuf]-~[tip]~d~g~d~[tig]-~[wio]~p~a~s~[wid]~a~[tus]--o-~[8s]-[wts]~d~[wts]~a~[qp]-[eti]-[etp]-~[9d]-[etd]~f~[etd]~s~[wa]-[ryo]-[rya]-~[0f]-[ryf]~g~[ryf]~d~[es]-[tup]-[wo]~o~[qip]-d-[woa]-~[8us]--o-~[euos]-s-s-~[wyoa]--a-~[ts]-[ra]-[ep]-~[wo]--d-~[tf]-[rd]~d~[es]~s~[wh]-[qo]-[0o]~o~[qip]-d-[woa]-~[8us]--o-~[8s]-[wts]~d~[wts]~a~[qp]-[eti]-[etp]-~[9d]-[etd]~f~[etd]~s~[wa]-[ryo]-[rya]-~[0f]-[ryf]~g~[ryf]~d~[es]-[tup]-[wo]~o~[qip]-d-[woa]-~[8us]--o-~[euos]-s-s-~[wyoa]--a-~[ts]-[ra]-[ep]-~[wo]--d-~[tf]-[rd]~d~[es]~s~[wh]-[qo]-[0o]~o~[qip]-d-[woa]-~[8us]--~[tuo]~s~f~s~[tuf]-~[tip]~d~g~d~[tig]-~[wio]~a~d~a~[wid]-~[tus]~d~f-[tus]-~[tuo]~s~f~s~[tuf]-~[tip]~d~g~d~[tig]-~[wio]~p~a~s~[wid]~a~[tus]-8",
+    "author": "Arthur Warrell",
+    "date": "23 November 2024",
+    "playTime": "01:13",
+    "url": "https://virtualpiano.net/music-sheet/we-wish-you-a-merry-christmas-alternative/",
+    "custom": false
   },
   {
     "name": "When The Party’s Over",
@@ -577,7 +975,8 @@
     "author": "Billie Eilish",
     "date": "30 March 2021",
     "playTime": "03:10",
-    "url": "https://virtualpiano.net/music-sheet/when-the-partys-over-billie-eilish/"
+    "url": "https://virtualpiano.net/music-sheet/when-the-partys-over-billie-eilish/",
+    "custom": false
   },
   {
     "name": "Wonderful Tonight (Eric Clapton)",
@@ -587,22 +986,40 @@
     "author": "Eric Clapton",
     "date": "6 August 2023",
     "playTime": "03:10",
-    "url": "https://virtualpiano.net/music-sheet/wonderful-tonight-eric-clapton/"
-  },
-  {
-    "name": "Thunderstruck",
-    "tempo": 100,
-    "trans": 0,
-    "tabs": "r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r u r o r u r o r u r o r u r o r u r o r u r o r u r o r u r o r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r Y r I r u r o r u r o r u r o r u r o r u r o r u r o r u r o r u r o r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r a r p r O r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a] r p r [7O] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r [Qu] r Y r [7u] r Y r [7a?] r p r [7O?] r p r O r [7I] r [9O] r [7u] r [9I] r Y r [0u] r [9Y] r Q [Gak] [G7ak] [Gdz] 7 7 7 7 7 [G7ak] [G7ak] [G7dz] [G7ak] [G7ak] [G7ak] [G7dz] [G7ak] [G7ak] [G7ak] [6pfj] [G7ak] 7 7 7 7 7 7 [C7kn?] [C7kn?] 7 [G7ak] [G7ak] [G7dz] 7 7 7 7 7 [G7ak] [G7ak] [G7dz] [G7ak] [G7ak] [G7ak] [G7ak] 7 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 7 7 7 7 [C7kn?] [C7kn?] 7 7 [Gak] 7 [Gak] 7 [G7dz] 7 7 7 7 [G7ak] [G7ak] [G7dz] 7 7 7 [G7dz] 7 [G7ak] [G7ak] [7pfj] 7 [G7ak] 7 7 7 7 7 7 [C7kn?] [C7kn?] 7 [G7ak] [G7ak] [G7dz] 7 7 7 7 7 [G7ak] [G7ak] [G7dz] 7 [Gak] 7 7 7 [G7dz] 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 7 7 7 7 [C7kn?] [C7kn?] [G7ak] 7 [Gak] 7 [Gak] 7 [G7dz] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 7 [G37dz] 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 [G7dz] [G37dz] 7 [Gdz] 7 [Gak] 7 [G7dz] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 7 [G37dz] 7 [Gak] 7 [Gak] 7 [G7ak] 7 7 7 [67] 3 7 7 7 7 [67] 7 6 7 [37] 7 7 7 7 7 7 7 7 7 [Ira] 7 [Ira] 7 [G7ak] [G7ak] [G7ak?] 7 7 7 7 7 7 7 [7?] 7 7 7 7 7 7 7 [7a?] r [7p] r [7O] r [7p] r [7O] r [7I] r [7O] r [7u] r [7I?] r [7Y] r [7u] r [7Y] [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 [7aIG] 7 7 7 [Ira] 7 [Ira] 7 [I7yd] 7 [Iuf] 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 [I7ra] 7 7 7 7 7 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 [aIG] 7 7 7 7 [7aIG] 7 [7aIG] 7 [aIG] 7 [7YD] [7aIG] 7 [uf] 7 [YD] 7 [I7ra?] 7 7 7 7 7 7 7 7 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 7 7 7 7 [7a] [I7yd] 7 [Iuf] 7 [Iyd] 7 [I7uf] 7 [Iuf] 7 [YID] 7 [7aIG?] 7 7 [I7ra] 7 7 7 7 7 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG] 7 7 7 [7aYD] 7 [uaf] 7 [aYD] 7 [7aIG?] 7 7 7 [7aIG] 7 7 7 [7aIG] 7 [aIG] 7 [uaf] 7 [I7yd] 7 [Ira] 7 7 [Q7r] [60e] [370] a a d d f d G [60e] [Q7r] [60e] [370] a a d a a p [60e] [Q7r] [60e] [370] a a d f f d G [60e] [Q7r] [60e] [370] a p [Iyd] [Ira] [I7ra] 7 7 [60e] 6 6 [269] [370] [60e] 6 6 [370] 3 3 [Iyd] 3 [Ira] 3 [I7ra] 7 [Iyd] 7 [60e] 6 6 [269] [370] [6upf] 6 [6upf] 3 [3uad] 3 p 3 a 3 [I7ra] 7 7 [60e] 6 6 [269] [370] [60e] 6 6 [370] 3 3 [Iyd] 3 [Ira] 3 [I7ra] 7 7 [60e] 6 6 [269] [370] [60e] 6 6 [370] 3 3 3 3 [Q7a] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [7a?] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [Q7r?] 7 7 [Q7r] 7 7 [I7ra] [I7ra] [I7yd] [7uaf] [7uaf] [7aIG] 7 7 [I7ra] 7 [Q7r?] 7 7 [Q7r] 7 7 [I7ra] [I7ra] [7up] e [I7ra] [I7ra] [7eup] 7 [I7ra] 7 7 [370ruO] [370ruO] [7r$I] [30] [$Q] [6e] [60eT] 6 [30r] [3I] 3 [3I] [3a] p [3I] u [3I] u [7y] r [70] [7Q] [7e] [60e] 6 6 [30r] 3 [3I] 3 [370ruO] [370ruO] [7r$I] [30] [$Q] [6e] [60eT] 6 [30r] 3 3 [3k] 3 j 3 G [3f] g [7f] d f G [7j] G [7f] G [7g] f [6d] a 6 [6f] [3f] 3 3 3 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [Q7r] 7 7 [70e] 7 [7r] [7y] [7r] [7y] 7 [7u] [7y] [7I] 7 [7r] 7 [7a] r [7p] r [7O] r [7p] r [7O] r [7I] r [7O] r [7u] r [7I] r [7Y] r [7u] r [7Y] 7 7 [Gdz] 7 [Gak] 7 [$G7ak] 7 7 [360e] 6 6 [269] [30] [360e] 6 6 [370] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [360e] 6 6 [29] 3 [G36dz] 6 [G6dz] 3 [G3dz] 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [360e] 6 6 [269] [30] [360e] 6 6 [370] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [360e] 6 6 [29] 3 [G36dz] 6 [G6dz] 3 [G3dz] 3 [G3dz] [3ak] [$G7dz] 7 7 7 [$7] [$Gdz] [%ak] [G3ak] 3 3 3 [370] 3 3 3 [$G7dz] 7 7 7 [$7] [$Gdz] [%SL] [G3ak] 3 3 3 [370] 3 3 3 [$G7dz] 7 7 7 [$7] [$Gdz] [%dz] [G3ak] 3 3 3 [370] 3 3 3 [$G7dz] 7 7 7 [$7] [$Gdz] [%ak] [G3ak] [Gak] [3dz] 3 [3dz] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [36] 6 6 2 3 [G36dz] 6 [G6dz] 3 [G3dz] 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [36] 6 6 2 3 [G36dz] [6fkx] 6 [3fkx] 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [36kGC] 6 6 2 3 [36fkx] 6 [dz] 6 [Gak] 3 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [36] 6 6 2 3 [G36dz] 6 [G6ak] 3 3 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] 3 [Gdz] 3 [Gak] 3 [$G7ak] 7 [Gdz] 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] [G3ak] [G3ak] [3GC] [$7] 7 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] [3a] [G3ak] [G3ak] [$7] 7 7 [36] 6 [6r] [2y] [3r] [36y] 6 [6u] [3y] [3I] 3 [3r] 3 [$7a] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [7a?] r p r O r p r O r I r O r u r I r Y r u r Y r u r Y r u r Y r [Q7r?]",
-    "url": "",
-    "custom": true
+    "url": "https://virtualpiano.net/music-sheet/wonderful-tonight-eric-clapton/",
+    "custom": false
   },
   {
     "name": "asd",
     "tempo": 100,
     "trans": 1,
     "tabs": "1234567",
+    "author": "",
+    "date": "???",
+    "playTime": "??:??",
     "url": "",
     "custom": true
+  },
+  {
+    "name": "asd2",
+    "tempo": 100,
+    "trans": -4,
+    "tabs": "[Pwidj]-[Pwidj] [Pwidj]-[Pwidj]-[P8tfj]-\n[P8tfj] [P8tfj]----\n[qusgj]-[qusgj] [qusgj]-[qusgj]-[qusgj]----\nS-d-\n[Pogj]-[oP] [oP]-[Pod]-[Ptuj]-\n[tuP] [tuP]----[sgj] \nq h [tu] [qg] 8 [tuf]-[8sh] \nq g [tu] [qf] 8 [tud]-8 \n[Pwdj]-[yi] w 9 [yid]-[P9fj] \n8-[Eu] 8 5 [Eu]-[wsgj] \nq h [tu] [qg] 8 [tuf]-[8sh] \nq g [tu] [qf] 8 [tud]-8 \n[Pwd]-[yi] [wgz] 9 [yi] [fl] 9 \n8-[Eu] 8 [5fj] [Eu] J w \n[efl]-[uo] [eh] 0 e [dPG] ( \n9-[tI] 9 6 [tI]-[P9dj] \nw h [yi] [wg] 9 [yif]-[P9dh] \nw g [yi] [wf] 9 [yid]-[P9of] \n8 f [Eu] [8f] 5 [Eug]-[P5sh] \n8--S-d-\n[Pogj]-[Pog] [Pog]-[Pod]-[Ptufj]-\n[Ptuf] [Ptuf]----[sgj] \nq h [tu] [qg] 8 [tuf]-[8sh] \nq g [tu] [qf] 8 [tud]-8 \n[Pwdj]-[yi] w 9 [yid]-[P9fj] \n8-[Eu] 8 5 [Eu]-[wsgj] \nq h [tu] [qg] 8 [tuf]-[8sh] \nq g [tu] [qf] 8 [tud]-8 \n[Pwd]-[yi] [wgz] 9 [yi] [fl] 9 \n8-[Eu] 8 [5fj] [Eu] J w \n[efl]-[uo] [eh] 0 e [dPG] ( \n9-[tI] 9 6 [tI]-[Pedj] \nw h [yi] [wg] 9 [yif]-[P9dh] \nw g [yi] [wf] 9 [yid]-[P9of] \n8 f [Eu] [8f] 5 [Eug]-[P5sh] \n8--j--\n[Pwdh]-[yis] [wdgj] 9 [yis] [dh] 9 \n[8s] [fj] [Eu] [8s] [5d] [Eu] [fj] w \n[qfh]-[uos] [qgj] 8 [uos] [fh] 8 \n[qs] [fj] [uo] [qs] [8d] [uo] [fj] 8 \n[Pwdh]-[yis] [wdgj] 9 [yis] [dh] 9 \n[8s] [fj] [Eu] [8s] [5fl] [Eu] j w \n[qsfh]-[uo] q 8 [uo]-8 \nq-[uo] q 8 [uo] g 8 \n[Pwdh]-[yis] [wdgj] 9 [yis] [dh] 9 \n[8s] [fj] [Eu] [8s] [5d] [Eu] [fj] w \n[efh]-[uod] [efj] 0 [ed] [Gl] ( \n[9D] [GJ] [tI] [9D] [G6j] [tI] [dj] e \n[Pwdh]-[yis] [wdgj] 9 [yis] [dh] 9 \n[8s] [fj] [Eu] 8 [5s] [Eu] d w \n[quopsg]-[quops] [quops]-[quops]-[quops] \n[quops]----\n[Pwidj]-[Pwidj] [Pwidj]-[Pwidj]-[Ptfj]-\n[Ptfj] [Ptfj]--j h g \n[qosf]-[tu] q 8 [tu]-8 \nq-[tu] [qS] 8 [tud] f [8g] \n[Pwd]-[yi] w 9 [yij]-[P9fh] \n8-[Eu] 8 [5jl] [Eu]-[wgj] \nq-[tu] q 8 [tu]-8 \nq-[tu] q [8J] [tu] [fl] 8 \n[Jwgz]-[yi] w [9J] [yij]-[9sfh] \n8-[Eu] 8 5 [Euh]-[5hlx] \ne-[uo] [ez] [0l] [eJ] j [(h] \n[9G] j [Itl] [9z] [6Z]c[tIZ] z [9l] \n[wdgJ]-[yi] w 9 [yid]-[9f] \nw-[yi] w [9dg] [yi]-9 \n[8b] J [Euz] [8v] [5J] [Euz] c [5J] \n[J8hx]--S-d-\n[Pogj]-[oP] [oP]-[Pod]-[Ptuj]-\n[tuP] [tuP]-s--[sgj] \nq h [tu] [qg] 8 [tuf]-[8sh] \nq g [tu] [qf] 8 [tud]-8 \n[Pwdj]-[yi] w 9 [yid]-[P9fj] \n8-[Eu] 8 5 [Eu]-[wsgj] \nq h [tu] [qg] 8 [tuf]-[8sh] \nq g [tu] [qf] 8 [tud]-8 \n[Pwd]-[yi] [wgz] 9 [yi] [fl] 9 \n8-[Euj] 8 [5fj] [Eu] J w \n[efl]-[uo] [eh] 0 e [dPG] ( \n9-[tI] [9z] 6 [Itl]-[Pedj] \nw h [yi] [wg] 9 [yif]-[P9dh] \nw g [yi] [wf] 9 [yid]-[P9of] \n8 f [Eu] [8f] 5 [Eug]-[P5sh] \n8--j--\n[wdh] P [yid] [wgj] [9P] [yid] h [9P] \n[8d] [fj] [Euo] [8P] [5d] [uEP] [fj] [wP] \n[qfh] p [uos] [qgj] [8p] [uos] h [8p] \n[qs] [fj] [uop] [qs] [8d] [uop] [fj] [8p] \n[wdh] o [yiP] [wdj] [9o] [yiP] [dh] [9o] \n[8P] [fj] [Euo] [8P] [5dl] [Euo] [fj] w \n[qsfh]-[uoj] [qz] [8g] [uoj] L [8g] \n[qj] z [uog] [qj] [8x] [uo] [sg] 8 \n[wdh] P [yid] [wgj] [9P] [yid] h [9P] \n[8d] [fj] [Euo] [8P] [5d] [uEP] [fj] [wP] \n[eh] p [uos] [efj] [0p] [es] [Gl] [(p] \n[9s] [GJ] [Itp] [9s] [G6j] [Itp] [sj] [eG] \n[wdh] o [yiP] [wj] [9o] [yiP] [dh] [9o] \n[8P] [fj] [Euo] [8P] [5s] [Euo] d [wP] \n[qpsg]-[uoghl] q 8 [uoghl]-8 \n[qghl]-[uo] [qghl] 8 [uo] j 8 \n[Pwdh]-[yis] [wdgj] 9 [yis] [dh] 9 \n[8s] [fj] [Eu] [8s] 5 [Eu] [fj] w \n[efl]-[uod] [efz] 0 [ed] [GZ] ( \n[9D] [Gz] eYIsj lCb-j-\n[wP] [yd] [ih]-- [Pdj] --[wP] T i S h-\n[gj] --s-d-\n[qp] [tsug]",
+    "author": "",
+    "date": "???",
+    "playTime": "??:??",
+    "url": "",
+    "custom": true
+  },
+  {
+    "name": "bad idea right? (Olivia Rodrigo)",
+    "tempo": 130,
+    "trans": -3,
+    "tabs": "5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~[5w]~[5w]~8~9~8~8~q~w~[5w]~[5w]~8~9~8~8~q~w~[5w]~[5w]~8~9~8~8~q~w~[5w]~[5w]~8~9~8~8~q~w~[5wo]~[5wo]~s~d~s~s~g~h~[5wo]~[5wo]~s~d~s~s~g~h~[5wo]~[5wo]~s~d~s~s~g~h~[5wo]~[5wo]~s~d-a~o~o~[5a]~5~9~w~r~w~9~7~4~4~9~w~r~[wa]~[9o]~[7o]~[3a]~3~[7a]~0~[wp]~0~[7o]~5~[@i]~@~[7o]~[(p]~[wo]~[(a]~[7o]~[5o]~[5a]~5~[9a]~w~[rp]~w~[9o]~7~[4i]~4~[9o]~w~[ry]~[wa]~[9p]~[7o]~[3a]~3~7~0~w~0~7~5~@~@~7~(~w~(~7~5~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~[5o]~[5I]~[8o]~[9I]~[8o]~8~q~w~[5o]~[5I]~[8o]~[9I]~[8o]~8~q~w~[5h]~[5G]~[8h]~[9G]~[8h]~8~q~w~[5wh]~[5wh]--~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5wh]~[5wh]--~[5w]~[5w]~8~9~8~8~q~w~[5w]~[5w]~8~9~8~8~q~w~[5w]~[5w]~8~9~8~8~q~w~[5w]~[5w]~8~9~8~8~q~w~[5wo]~[5wo]~s~d~s~s~g~h~[5wo]~[5wo]~s~d~s~s~g~h~[5wo]~[5wo]~s~d~s~s~g~h~[5wo]~[5wo]~s~d-a~o~o~[5a]~5~9~w~r~w~9~7~4~4~9~w~r~[wa]~[9o]~[7o]~[3a]~3~[7a]~0~[wp]~0~[7o]~5~[@i]~@~[7o]~[(p]~[wo]~[(a]~[7o]~[5o]~[5a]~5~[9a]~w~[rp]~w~[9o]~7~[4i]~4~[9o]~w~[ry]~[wa]~[9p]~[7o]~[3a]~3~7~0~w~0~7~5~@~@~7~(~w~(~7~5~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~5~5~8~9~8~8~q~w~[5o]~[5I]~[8o]~[9I]~[8o]~8~q~w~[5o]~[5I]~[8o]~[9I]~[8o]~8~q~w~[5h]~[5G]~[8h]~[9G]~[8h]~8~q~w~[5wh]~[5wh]--~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~h~[5o]~[wo]~[5s]~[wd]~[5s]~s~[5g]~o~[5a]~[wa]~[5wyoa]~a~[5a]~[wa]~[5wyoa]-~h--o--~[5a]~[wa]~[5wyoa]~a~[5a]~[wa]~[5wyoa]-~[5v]~5~8~9~8~8~q~w~[5z]~z~w~z~[5z]~w~[5z]~w~[5m]-w~mb[5v]h[wv]~5~w~[5B]vc~w~Bv[5c]~w~5~w~[5x]~[wc]~[5x]~[wc]~[5c]~x~[5z]~l~[5z]~w~5~[wx]z[5l]~c~[5x]~z~5~w~[5z]~[wl]~5~l~[5k]~l~5~5~8~9~8~8~q~w~[5w]~[5w]~[9y]-[8t]~[8ts]~[wos]~s~[5wd]~[5w]~[9y]~a~[8to]~[8t]~[wo]-~[5w]~[5w]~[9y]-[8t]~[8ts]~[wos]~s~[5wd]~[5w]~[9y]~a~[8t]~[8t]~[wo]-~[5w]~[5w]~[9y]-[8t]~[8ts]~[wos]~s~[5wd]~[5w]~[9y]~a~[8to]~[8t]~[wo]-~[5w]~[5w]~[9y]-[8t]~[8ts]~[wos]~s~[5wd]~[5w]~[9y]~a~[8t]~[8t]~[wo]-~[5wh]~[5wh]--~[5o]~[5h]~8~9~8~8~q~[wo]~[5a]~[5o]~8~9~8~8~q~w~[5o]~[5h]~8~9~8~8~q~[wo]~[5a]~[5o]~8~[9i]~8~[8u]~q~w~[5o]~[5h]~8~9~8~8~q~[wo]~[5a]~[5o]~8~9~8~8~q~w~[5o]~[5h]~8~9~8~8~q~[wo]~[5a]~[5o]~8~[9i]~8~[8u]~q~w",
+    "author": "Olivia Rodrigo",
+    "date": "25 March 2025",
+    "playTime": "02:57",
+    "url": "https://virtualpiano.net/music-sheet/bad-idea-right-olivia-rodrigo/",
+    "custom": false
   }
 ]

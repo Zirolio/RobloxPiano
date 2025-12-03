@@ -103,6 +103,13 @@ public class Config extends ArrayList<Config.MelodyConfig> {
             this.playTime = Objects.requireNonNullElse(playTime, this.playTime);;
             this.url = Objects.requireNonNullElse(url, this.url);;
         }
+
+        public static MelodyConfig from(String tabs, int tempo) {
+            MelodyConfig melodyConfig = new MelodyConfig();
+            melodyConfig.tabs = tabs;
+            melodyConfig.tempo = tempo;
+            return melodyConfig;
+        }
     }
 
 }

@@ -20,7 +20,6 @@ public class Main {
             }
         }
 
-
         System.out.println("Program started, config loaded!");
         KeyListener.init();
         PlayerUI.Init();

@@ -26,7 +26,10 @@ public class KeyListener implements NativeKeyListener {
         int code = e.getKeyCode();
 
         if ((mods & NativeKeyEvent.ALT_MASK) != 0) {
-            if ((mods & NativeKeyEvent.CTRL_MASK) != 0 && code == NativeKeyEvent.VC_S) MelodyPlayer.getInstance().stop();
+            if ((mods & NativeKeyEvent.CTRL_MASK) != 0) {
+                if (code == NativeKeyEvent.VC_S) MelodyPlayer.getInstance().stop();
+                if (code == NativeKeyEvent.VC_R) MelodyPlayer.getInstance().play(null);
+            }
         }
     }
 

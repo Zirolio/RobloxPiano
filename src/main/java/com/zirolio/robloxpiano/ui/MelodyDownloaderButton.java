@@ -16,6 +16,7 @@ public class MelodyDownloaderButton extends JPanel {
         setBackground(new Color(30, 30, 30));
         setBorder(BorderFactory.createEmptyBorder(5, 5, 5, 5));
 
+        // ===================== INPUT FIELD =====================
         JTextField inputField = new JTextField();
         inputField.setBackground(new Color(40, 40, 40));
         inputField.setForeground(Color.WHITE);
@@ -26,6 +27,27 @@ public class MelodyDownloaderButton extends JPanel {
                 BorderFactory.createEmptyBorder(5, 10, 5, 10)
         ));
 
+        // ===================== TEMPO FIELD =====================
+        JSpinner tempoSpinner = new JSpinner(
+                new SpinnerNumberModel(100, 10, 999, 1)
+        );
+        tempoSpinner.setBackground(new Color(40, 40, 40));
+        tempoSpinner.setForeground(Color.WHITE);
+        tempoSpinner.setFont(new Font("Arial", Font.PLAIN, 14));
+
+        JComponent editor = tempoSpinner.getEditor();
+        if (editor instanceof JSpinner.DefaultEditor ed) {
+            ed.getTextField().setBackground(new Color(40, 40, 40));
+            ed.getTextField().setForeground(Color.WHITE);
+            ed.getTextField().setBorder(BorderFactory.createEmptyBorder(5, 10, 5, 10));
+        }
+
+        tempoSpinner.setBorder(BorderFactory.createCompoundBorder(
+                BorderFactory.createLineBorder(new Color(70, 70, 70), 1),
+                BorderFactory.createEmptyBorder(0, 0, 0, 0)
+        ));
+
+        // ===================== PLAY BUTTON =====================
         JButton button = new JButton("Play");
         button.setFont(new Font("Arial", Font.BOLD, 14));
         button.setForeground(Color.WHITE);
@@ -34,27 +56,29 @@ public class MelodyDownloaderButton extends JPanel {
         button.setCursor(Cursor.getPredefinedCursor(Cursor.HAND_CURSOR));
         button.setBorder(BorderFactory.createEmptyBorder(5, 20, 5, 20));
 
+        // hover
         button.addMouseListener(new MouseAdapter() {
             @Override
             public void mouseEntered(MouseEvent e) {
                 if (!button.getBackground().equals(new Color(0, 150, 0)) &&
-                        !button.getBackground().equals(new Color(150, 0, 0))) {
+                        !button.getBackground().equals(new Color(150, 0, 0)))
                     button.setBackground(new Color(60, 60, 60));
-                }
             }
 
             @Override
             public void mouseExited(MouseEvent e) {
                 if (!button.getBackground().equals(new Color(0, 150, 0)) &&
-                        !button.getBackground().equals(new Color(150, 0, 0))) {
+                        !button.getBackground().equals(new Color(150, 0, 0)))
                     button.setBackground(new Color(50, 50, 50));
-                }
             }
         });
 
-        this.add(inputField, BorderLayout.CENTER);
-        this.add(button, BorderLayout.EAST);
+        // ===================== LAYOUT =====================
+        add(inputField, BorderLayout.CENTER);
+        add(tempoSpinner, BorderLayout.WEST);
+        add(button, BorderLayout.EAST);
 
+        // ===================== LOGIC =====================
         button.addMouseListener(new MouseAdapter() {
             private boolean playing = false;
 
@@ -72,18 +96,32 @@ public class MelodyDownloaderButton extends JPanel {
 
                 if (!inputField.getText().isEmpty()) {
                     try {
+                        int tempo = (int) tempoSpinner.getValue();
                         button.setBackground(new Color(0, 120, 120)); // loading
-                        Config.MelodyConfig melodyConfig = MelodyDownloader.load(inputField.getText());
-                        Config.addMelody(melodyConfig);
+
+                        Config.MelodyConfig melodyConfig;
+
+                        if (inputField.getText().startsWith("https://")) {
+                            melodyConfig = MelodyDownloader.load(inputField.getText());
+                            Config.addMelody(melodyConfig);
+                        } else {
+                            melodyConfig = Config.MelodyConfig.from(
+                                    inputField.getText(),
+                                    tempo
+                            );
+                        }
+
                         button.setBackground(new Color(0, 150, 0)); // play
                         this.playing = true;
                         MelodyPlayer.getInstance().play(melodyConfig, this::onStopPlaying);
-                    } catch (Exception er) {
+
+                    } catch (Exception ex) {
                         button.setBackground(new Color(150, 0, 0)); // error
-                        er.printStackTrace();
+                        ex.printStackTrace();
                     }
                 }
             }
         });
     }
 }
+
