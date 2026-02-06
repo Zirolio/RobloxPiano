@@ -14,7 +14,6 @@ public class MelodyScrollPane extends JScrollPane {
 
         JScrollBar scrollBar = getVerticalScrollBar();
         scrollBar.setUI(new javax.swing.plaf.basic.BasicScrollBarUI() {
-
             @Override
             protected void configureScrollBarColors() {
                 thumbColor = new Color(100, 100, 100);

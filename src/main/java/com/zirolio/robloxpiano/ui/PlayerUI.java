@@ -13,6 +13,7 @@ public class PlayerUI extends JFrame {
     public final MelodyScrollPane scrollPane;
     public final MelodyDownloaderButton downloader;
     public final NotesLogger notesLogger;
+    public final TransToggle transToggle;
 
     private PlayerUI() {
         super("Roblox Piano");
@@ -29,17 +30,23 @@ public class PlayerUI extends JFrame {
         listPanel = new MelodyListPanel();
         scrollPane = new MelodyScrollPane(listPanel);
         downloader = new MelodyDownloaderButton();
-
-        JPanel topPanel = new JPanel(new BorderLayout());
-        topPanel.setBackground(Color.BLACK);
+        transToggle = new TransToggle(true);
         notesLogger = new NotesLogger();
-        topPanel.add(notesLogger, BorderLayout.NORTH);
         AutoPlayButton autoButton = new AutoPlayButton();
-        topPanel.add(autoButton, BorderLayout.SOUTH);
+
+        JPanel topPanel = new JPanel(new GridLayout(1, 2, 0, 0));
+        topPanel.setBackground(Color.BLACK);
+        topPanel.add(transToggle);
+        topPanel.add(notesLogger);
+
+        JPanel bottomPanel = new JPanel(new BorderLayout());
+        bottomPanel.setBackground(Color.BLACK);
+        bottomPanel.add(autoButton, BorderLayout.NORTH);
+        bottomPanel.add(downloader, BorderLayout.SOUTH);
 
         content.add(topPanel, BorderLayout.NORTH);
         content.add(scrollPane, BorderLayout.CENTER);
-        content.add(downloader, BorderLayout.SOUTH);
+        content.add(bottomPanel, BorderLayout.SOUTH);
 
         listPanel.refreshMelodyList();
 

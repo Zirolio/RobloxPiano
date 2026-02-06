@@ -179,6 +179,7 @@ public class MelodyPlayer {
         }
 
         private String getNoteWithTrans(String note) {
+            if (!PlayerUI.getInstance().transToggle.isChoiced()) return note;
             int index = NOTES_LINE.indexOf(note);
 
             if (index == -1) {

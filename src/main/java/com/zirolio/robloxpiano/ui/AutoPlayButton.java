@@ -20,7 +20,7 @@ public class AutoPlayButton extends JPanel {
     public AutoPlayButton() {
         setLayout(new BorderLayout(5, 0));
         setBackground(new Color(30, 30, 30));
-        setBorder(BorderFactory.createEmptyBorder(5, 5, 5, 5));
+        setBorder(BorderFactory.createEmptyBorder(5, 5, 0, 5));
 
         JButton button = new JButton("Auto Play");
         button.setFont(new Font("Arial", Font.BOLD, 14));
@@ -31,12 +31,6 @@ public class AutoPlayButton extends JPanel {
         button.setBorder(BorderFactory.createEmptyBorder(5, 20, 5, 20));
 
         add(button);
-        /* setFont(new Font("Consolas", Font.BOLD, 14));
-        setForeground(Color.WHITE);
-        setBackground(Color.DARK_GRAY);
-        setFocusPainted(false);
-        setBorder(BorderFactory.createLineBorder(Color.WHITE));
-        setOpaque(true); */
 
         button.addMouseListener(new MouseAdapter() {
             @Override
